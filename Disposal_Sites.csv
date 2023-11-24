@@ -1,0 +1,27 @@
+NomDepot,TypeDepot,Capacite m3,Latitude,Longitude,Cost ($/m3)
+St-Michel - Charland (VSP),Carierre,1260000,45.579,-73.633,0.34
+St-Michel - Robert (VSP),Carierre,3780000,45.573,-73.612,0.34
+St-Michel-17i�me(Sous-Sol),Carierre,2000000,45.576,-73.625,0.34
+Butler (S-O),Chute_Egout,10000000000,45.475,-73.569,0.29
+De la Salle (MHM),Chute_Egout,10000000000,45.549,-73.531,0.29
+Fullum (VMA),Chute_Egout,10000000000,45.525,-73.545,0.29
+Iberville (PMR),Chute_Egout,10000000000,45.533,-73.555,0.29
+Jules-Poitras 1 (AHU),Chute_Egout,10000000000,45.53,-73.693,0.29
+Jules-Poitras 2 (SLA),Chute_Egout,10000000000,45.529,-73.687,0.29
+Lausanne (MTN),Chute_Egout,10000000000,45.588,-73.649,0.29
+Millen (AHU),Chute_Egout,10000000000,45.557,-73.668,0.29
+Riverside (VMA),Chute_Egout,10000000000,45.491,-73.552,0.29
+Saint-Pierre (LAC),Chute_Egout,10000000000,45.468,-73.599,0.29
+Sauvé (AHU),Chute_Egout,10000000000,45.54,-73.665,0.29
+Verdun (VER),Chute_Egout,10000000000,45.471,-73.56,0.29
+46 ieme (LAC),Entassement,250000,45.45,-73.71,0.58
+Angrignon (LAS),Entassement,1500000,45.453,-73.616,0.58
+Armand-Chaput (RDP),Entassement,1400000,45.66,-73.527,0.58
+Autoroute 13 (PRF),Entassement,0,45.504,-73.755,0.58
+Château Pierrefonds (PRF),Entassement,200000,45.461,-73.899,0.58
+Lafarge (sud) (MHM),Entassement,1100000,45.618,-73.524,0.58
+Langelier (SLE),Entassement,700000,45.607,-73.607,0.58
+Newman (S-O),Entassement,375000,45.456,-73.609,0.58
+Ray-Lawson (ANJ),Entassement,2450000,45.622,-73.579,0.58
+Sartelon (SLA),Entassement,345000,45.512,-73.737,0.58
+Thimens (SLA),Entassement,478210,45.495,-73.721,0.58

@@ -1,0 +1,2709 @@
+PickupSector,DisposalSite, Distance (km)
+AHU-101,St-Michel - Charland (VSP),10.195564
+AHU-101,St-Michel - Robert (VSP),13.824792
+AHU-101,St-Michel-17i�me(Sous-Sol),11.041832
+AHU-101,Butler (S-O),18.729797
+AHU-101,De la Salle (MHM),18.303719
+AHU-101,Fullum (VMA),22.725502
+AHU-101,Iberville (PMR),15.924388
+AHU-101,Jules-Poitras 1 (AHU),3.012957
+AHU-101,Jules-Poitras 2 (SLA),3.0591
+AHU-101,Lausanne (MTN),8.901012
+AHU-101,Millen (AHU),5.557221
+AHU-101,Riverside (VMA),20.892695
+AHU-101,Saint-Pierre (LAC),16.759512
+AHU-101,Sauv� (AHU),4.406625
+AHU-101,Verdun (VER),18.993252
+AHU-101,46 ieme (LAC),17.242889
+AHU-101,Angrignon (LAS),19.40858
+AHU-101,Armand-Chaput (RDP),27.264611
+AHU-101,Autoroute 13 (PRF),8.735167
+AHU-101,Ch�teau Pierrefonds (PRF),22.40201
+AHU-101,Lafarge (sud) (MHM),22.576158
+AHU-101,Langelier (SLE),14.245257
+AHU-101,Newman (S-O),20.417078
+AHU-101,Ray-Lawson (ANJ),27.682389
+AHU-101,Sartelon (SLA),6.499959
+AHU-101,Thimens (SLA),8.246578
+AHU-102,St-Michel - Charland (VSP),9.986773
+AHU-102,St-Michel - Robert (VSP),13.616002
+AHU-102,St-Michel-17ième(Sous-Sol),10.833041
+AHU-102,Butler (S-O),18.521006
+AHU-102,De la Salle (MHM),18.094928
+AHU-102,Fullum (VMA),22.516713
+AHU-102,Iberville (PMR),15.715597
+AHU-102,Jules-Poitras 1 (AHU),2.804166
+AHU-102,Jules-Poitras 2 (SLA),2.850309
+AHU-102,Lausanne (MTN),8.692221
+AHU-102,Millen (AHU),5.34843
+AHU-102,Riverside (VMA),20.683902
+AHU-102,Saint-Pierre (LAC),16.550721
+AHU-102,Sauvé (AHU),4.197834
+AHU-102,Verdun (VER),18.784461
+AHU-102,46 ieme (LAC),17.034098
+AHU-102,Angrignon (LAS),19.199789
+AHU-102,Armand-Chaput (RDP),27.055818
+AHU-102,Autoroute 13 (PRF),8.769993
+AHU-102,Château Pierrefonds (PRF),22.436838
+AHU-102,Lafarge (sud) (MHM),22.367367
+AHU-102,Langelier (SLE),14.036466
+AHU-102,Newman (S-O),20.208287
+AHU-102,Ray-Lawson (ANJ),27.473598
+AHU-102,Sartelon (SLA),6.534786
+AHU-102,Thimens (SLA),8.281404
+AHU-103,St-Michel - Charland (VSP),10.195564
+AHU-103,St-Michel - Robert (VSP),13.824792
+AHU-103,St-Michel-17ième(Sous-Sol),11.041832
+AHU-103,Butler (S-O),18.729797
+AHU-103,De la Salle (MHM),18.303719
+AHU-103,Fullum (VMA),22.725502
+AHU-103,Iberville (PMR),15.924388
+AHU-103,Jules-Poitras 1 (AHU),3.012957
+AHU-103,Jules-Poitras 2 (SLA),3.0591
+AHU-103,Lausanne (MTN),8.901012
+AHU-103,Millen (AHU),5.557221
+AHU-103,Riverside (VMA),20.892695
+AHU-103,Saint-Pierre (LAC),16.759512
+AHU-103,Sauvé (AHU),4.406625
+AHU-103,Verdun (VER),18.993252
+AHU-103,46 ieme (LAC),17.242889
+AHU-103,Angrignon (LAS),19.40858
+AHU-103,Armand-Chaput (RDP),27.264611
+AHU-103,Autoroute 13 (PRF),8.735167
+AHU-103,Château Pierrefonds (PRF),22.40201
+AHU-103,Lafarge (sud) (MHM),22.576158
+AHU-103,Langelier (SLE),14.245257
+AHU-103,Newman (S-O),20.417078
+AHU-103,Ray-Lawson (ANJ),27.682389
+AHU-103,Sartelon (SLA),6.499959
+AHU-103,Thimens (SLA),8.246578
+AHU-104,St-Michel - Charland (VSP),8.576025
+AHU-104,St-Michel - Robert (VSP),14.099004
+AHU-104,St-Michel-17ième(Sous-Sol),9.422293
+AHU-104,Butler (S-O),19.004008
+AHU-104,De la Salle (MHM),18.577928
+AHU-104,Fullum (VMA),22.999713
+AHU-104,Iberville (PMR),16.198597
+AHU-104,Jules-Poitras 1 (AHU),3.287168
+AHU-104,Jules-Poitras 2 (SLA),3.333311
+AHU-104,Lausanne (MTN),7.281472
+AHU-104,Millen (AHU),3.524215
+AHU-104,Riverside (VMA),21.166906
+AHU-104,Saint-Pierre (LAC),17.033725
+AHU-104,Sauvé (AHU),3.435382
+AHU-104,Verdun (VER),19.267461
+AHU-104,46 ieme (LAC),17.545562
+AHU-104,Angrignon (LAS),19.682791
+AHU-104,Armand-Chaput (RDP),27.53882
+AHU-104,Autoroute 13 (PRF),9.252995
+AHU-104,Château Pierrefonds (PRF),22.91984
+AHU-104,Lafarge (sud) (MHM),22.850371
+AHU-104,Langelier (SLE),12.625717
+AHU-104,Newman (S-O),20.691287
+AHU-104,Ray-Lawson (ANJ),27.9566
+AHU-104,Sartelon (SLA),7.017788
+AHU-104,Thimens (SLA),8.764407
+AHU-105,St-Michel - Charland (VSP),4.836357
+AHU-105,St-Michel - Robert (VSP),7.940061
+AHU-105,St-Michel-17ième(Sous-Sol),5.682625
+AHU-105,Butler (S-O),15.860021
+AHU-105,De la Salle (MHM),12.418987
+AHU-105,Fullum (VMA),11.314351
+AHU-105,Iberville (PMR),10.039655
+AHU-105,Jules-Poitras 1 (AHU),4.824479
+AHU-105,Jules-Poitras 2 (SLA),3.406698
+AHU-105,Lausanne (MTN),6.181189
+AHU-105,Millen (AHU),2.837399
+AHU-105,Riverside (VMA),11.584847
+AHU-105,Saint-Pierre (LAC),13.889736
+AHU-105,Sauvé (AHU),1.620614
+AHU-105,Verdun (VER),16.123476
+AHU-105,46 ieme (LAC),14.373113
+AHU-105,Angrignon (LAS),16.538805
+AHU-105,Armand-Chaput (RDP),21.379881
+AHU-105,Autoroute 13 (PRF),10.413579
+AHU-105,Château Pierrefonds (PRF),26.814059
+AHU-105,Lafarge (sud) (MHM),16.691428
+AHU-105,Langelier (SLE),12.321938
+AHU-105,Newman (S-O),17.547303
+AHU-105,Ray-Lawson (ANJ),14.3
+AHU-105,Sartelon (SLA),8.178373
+AHU-105,Thimens (SLA),10.998635
+AHU-106,St-Michel - Charland (VSP),5.942661
+AHU-106,St-Michel - Robert (VSP),9.284607
+AHU-106,St-Michel-17ième(Sous-Sol),6.788928
+AHU-106,Butler (S-O),23.188266
+AHU-106,De la Salle (MHM),14.85378
+AHU-106,Fullum (VMA),13.685594
+AHU-106,Iberville (PMR),12.468313
+AHU-106,Jules-Poitras 1 (AHU),9.482476
+AHU-106,Jules-Poitras 2 (SLA),8.108403
+AHU-106,Lausanne (MTN),5.920314
+AHU-106,Millen (AHU),4.589851
+AHU-106,Riverside (VMA),17.222527
+AHU-106,Saint-Pierre (LAC),21.21798
+AHU-106,Sauvé (AHU),7.092377
+AHU-106,Verdun (VER),23.451719
+AHU-106,46 ieme (LAC),32.64165
+AHU-106,Angrignon (LAS),39.369836
+AHU-106,Armand-Chaput (RDP),25.760895
+AHU-106,Autoroute 13 (PRF),23.499092
+AHU-106,Château Pierrefonds (PRF),39.914125
+AHU-106,Lafarge (sud) (MHM),25.660865
+AHU-106,Langelier (SLE),19.039422
+AHU-106,Newman (S-O),40.378336
+AHU-106,Ray-Lawson (ANJ),19.623738
+AHU-106,Sartelon (SLA),12.880077
+AHU-106,Thimens (SLA),14.604445
+AHU-107,St-Michel - Charland (VSP),3.924458
+AHU-107,St-Michel - Robert (VSP),7.368796
+AHU-107,St-Michel-17ième(Sous-Sol),4.770725
+AHU-107,Butler (S-O),17.15526
+AHU-107,De la Salle (MHM),12.407896
+AHU-107,Fullum (VMA),11.502598
+AHU-107,Iberville (PMR),9.468392
+AHU-107,Jules-Poitras 1 (AHU),5.962518
+AHU-107,Jules-Poitras 2 (SLA),4.588446
+AHU-107,Lausanne (MTN),5.321327
+AHU-107,Millen (AHU),1.821556
+AHU-107,Riverside (VMA),12.249281
+AHU-107,Saint-Pierre (LAC),15.003173
+AHU-107,Sauvé (AHU),2.409444
+AHU-107,Verdun (VER),17.418715
+AHU-107,46 ieme (LAC),15.668352
+AHU-107,Angrignon (LAS),17.834041
+AHU-107,Armand-Chaput (RDP),20.808615
+AHU-107,Autoroute 13 (PRF),11.595327
+AHU-107,Château Pierrefonds (PRF),28.109299
+AHU-107,Lafarge (sud) (MHM),16.1
+AHU-107,Langelier (SLE),8.329139
+AHU-107,Newman (S-O),19.342508
+AHU-107,Ray-Lawson (ANJ),13.739433
+AHU-107,Sartelon (SLA),9.36012
+AHU-107,Thimens (SLA),12.293873
+AHU-201,St-Michel - Charland (VSP),5.414553
+AHU-201,St-Michel - Robert (VSP),8.023303
+AHU-201,St-Michel-17ième(Sous-Sol),6.260821
+AHU-201,Butler (S-O),19.780707
+AHU-201,De la Salle (MHM),12.816755
+AHU-201,Fullum (VMA),12.707554
+AHU-201,Iberville (PMR),10.437424
+AHU-201,Jules-Poitras 1 (AHU),5.455617
+AHU-201,Jules-Poitras 2 (SLA),4.081545
+AHU-201,Lausanne (MTN),4.12
+AHU-201,Millen (AHU),0.562991
+AHU-201,Riverside (VMA),16.244486
+AHU-201,Saint-Pierre (LAC),17.628619
+AHU-201,Sauvé (AHU),3.065518
+AHU-201,Verdun (VER),20.04416
+AHU-201,46 ieme (LAC),18.293797
+AHU-201,Angrignon (LAS),20.459488
+AHU-201,Armand-Chaput (RDP),21.777648
+AHU-201,Autoroute 13 (PRF),11.088426
+AHU-201,Château Pierrefonds (PRF),24.75527
+AHU-201,Lafarge (sud) (MHM),17.089197
+AHU-201,Langelier (SLE),9.464245
+AHU-201,Newman (S-O),21.967953
+AHU-201,Ray-Lawson (ANJ),11.316485
+AHU-201,Sartelon (SLA),8.853219
+AHU-201,Thimens (SLA),10.577586
+AHU-202,St-Michel - Charland (VSP),6.715224
+AHU-202,St-Michel - Robert (VSP),9.323975
+AHU-202,St-Michel-17ième(Sous-Sol),7.561493
+AHU-202,Butler (S-O),18.724377
+AHU-202,De la Salle (MHM),13.974457
+AHU-202,Fullum (VMA),22.720084
+AHU-202,Iberville (PMR),11.595125
+AHU-202,Jules-Poitras 1 (AHU),4.427752
+AHU-202,Jules-Poitras 2 (SLA),3.05368
+AHU-202,Lausanne (MTN),5.420672
+AHU-202,Millen (AHU),1.663415
+AHU-202,Riverside (VMA),13.140317
+AHU-202,Saint-Pierre (LAC),16.572291
+AHU-202,Sauvé (AHU),2.037654
+AHU-202,Verdun (VER),18.987832
+AHU-202,46 ieme (LAC),17.265932
+AHU-202,Angrignon (LAS),19.403162
+AHU-202,Armand-Chaput (RDP),22.93535
+AHU-202,Autoroute 13 (PRF),10.060562
+AHU-202,Château Pierrefonds (PRF),23.727406
+AHU-202,Lafarge (sud) (MHM),18.246898
+AHU-202,Langelier (SLE),10.764916
+AHU-202,Newman (S-O),20.911625
+AHU-202,Ray-Lawson (ANJ),12.617158
+AHU-202,Sartelon (SLA),7.825355
+AHU-202,Thimens (SLA),9.549723
+ANJ-101,St-Michel - Charland (VSP),12.260465
+ANJ-101,St-Michel - Robert (VSP),9.296884
+ANJ-101,St-Michel-17ième(Sous-Sol),11.392243
+ANJ-101,Butler (S-O),22.650332
+ANJ-101,De la Salle (MHM),12.96312
+ANJ-101,Fullum (VMA),16.053041
+ANJ-101,Iberville (PMR),13.221194
+ANJ-101,Jules-Poitras 1 (AHU),20.599406
+ANJ-101,Jules-Poitras 2 (SLA),17.810406
+ANJ-101,Lausanne (MTN),11.306134
+ANJ-101,Millen (AHU),14.705264
+ANJ-101,Riverside (VMA),19.977299
+ANJ-101,Saint-Pierre (LAC),25.071068
+ANJ-101,Sauvé (AHU),15.979113
+ANJ-101,Verdun (VER),24.093359
+ANJ-101,46 ieme (LAC),26.195047
+ANJ-101,Angrignon (LAS),27.746641
+ANJ-101,Armand-Chaput (RDP),5.956979
+ANJ-101,Autoroute 13 (PRF),36.898664
+ANJ-101,Château Pierrefonds (PRF),38.635992
+ANJ-101,Lafarge (sud) (MHM),5.985264
+ANJ-101,Langelier (SLE),7.374618
+ANJ-101,Newman (S-O),26.978275
+ANJ-101,Ray-Lawson (ANJ),3.620511
+ANJ-101,Sartelon (SLA),22.582078
+ANJ-101,Thimens (SLA),22.82057
+ANJ-309,St-Michel - Charland (VSP),11.028395
+ANJ-309,St-Michel - Robert (VSP),8.064812
+ANJ-309,St-Michel-17ième(Sous-Sol),10.160174
+ANJ-309,Butler (S-O),19.675744
+ANJ-309,De la Salle (MHM),9.988533
+ANJ-309,Fullum (VMA),13.078452
+ANJ-309,Iberville (PMR),10.246605
+ANJ-309,Jules-Poitras 1 (AHU),19.367336
+ANJ-309,Jules-Poitras 2 (SLA),16.578334
+ANJ-309,Lausanne (MTN),10.4304
+ANJ-309,Millen (AHU),25.027812
+ANJ-309,Riverside (VMA),17.002711
+ANJ-309,Saint-Pierre (LAC),22.096479
+ANJ-309,Sauvé (AHU),14.747043
+ANJ-309,Verdun (VER),21.118771
+ANJ-309,46 ieme (LAC),24.962979
+ANJ-309,Angrignon (LAS),24.772053
+ANJ-309,Armand-Chaput (RDP),9.106046
+ANJ-309,Autoroute 13 (PRF),36.02293
+ANJ-309,Château Pierrefonds (PRF),37.403926
+ANJ-309,Lafarge (sud) (MHM),4.752083
+ANJ-309,Langelier (SLE),6.498884
+ANJ-309,Newman (S-O),24.003689
+ANJ-309,Ray-Lawson (ANJ),3.847512
+ANJ-309,Sartelon (SLA),21.35001
+ANJ-309,Thimens (SLA),21.588498
+ANJ-310,St-Michel - Charland (VSP),10.356798
+ANJ-310,St-Michel - Robert (VSP),7.391217
+ANJ-310,St-Michel-17ième(Sous-Sol),9.488577
+ANJ-310,Butler (S-O),17.746502
+ANJ-310,De la Salle (MHM),8.059292
+ANJ-310,Fullum (VMA),11.149211
+ANJ-310,Iberville (PMR),8.383688
+ANJ-310,Jules-Poitras 1 (AHU),18.695738
+ANJ-310,Jules-Poitras 2 (SLA),15.906739
+ANJ-310,Lausanne (MTN),10.725715
+ANJ-310,Millen (AHU),12.801596
+ANJ-310,Riverside (VMA),15.073469
+ANJ-310,Saint-Pierre (LAC),20.167238
+ANJ-310,Sauvé (AHU),14.075446
+ANJ-310,Verdun (VER),19.189529
+ANJ-310,46 ieme (LAC),24.291383
+ANJ-310,Angrignon (LAS),22.842812
+ANJ-310,Armand-Chaput (RDP),14.755941
+ANJ-310,Autoroute 13 (PRF),23.784492
+ANJ-310,Château Pierrefonds (PRF),36.732328
+ANJ-310,Lafarge (sud) (MHM),5.147437
+ANJ-310,Langelier (SLE),5.775234
+ANJ-310,Newman (S-O),22.074447
+ANJ-310,Ray-Lawson (ANJ),7.686759
+ANJ-310,Sartelon (SLA),20.678412
+ANJ-310,Thimens (SLA),20.9169
+ANJ-311,St-Michel - Charland (VSP),7.176721
+ANJ-311,St-Michel - Robert (VSP),5.032036
+ANJ-311,St-Michel-17ième(Sous-Sol),7.129396
+ANJ-311,Butler (S-O),23.419107
+ANJ-311,De la Salle (MHM),9.668037
+ANJ-311,Fullum (VMA),12.757957
+ANJ-311,Iberville (PMR),9.992434
+ANJ-311,Jules-Poitras 1 (AHU),16.33656
+ANJ-311,Jules-Poitras 2 (SLA),13.547558
+ANJ-311,Lausanne (MTN),7.881763
+ANJ-311,Millen (AHU),10.442415
+ANJ-311,Riverside (VMA),16.682217
+ANJ-311,Saint-Pierre (LAC),21.775984
+ANJ-311,Sauvé (AHU),11.716266
+ANJ-311,Verdun (VER),20.798277
+ANJ-311,46 ieme (LAC),21.932199
+ANJ-311,Angrignon (LAS),24.097893
+ANJ-311,Armand-Chaput (RDP),12.84695
+ANJ-311,Autoroute 13 (PRF),21.425312
+ANJ-311,Château Pierrefonds (PRF),34.373148
+ANJ-311,Lafarge (sud) (MHM),7.215255
+ANJ-311,Langelier (SLE),2.917329
+ANJ-311,Newman (S-O),25.606355
+ANJ-311,Ray-Lawson (ANJ),4.00143
+ANJ-311,Sartelon (SLA),18.319232
+ANJ-311,Thimens (SLA),18.557721
+ANJ-312,St-Michel - Charland (VSP),5.418479
+ANJ-312,St-Michel - Robert (VSP),5.743117
+ANJ-312,St-Michel-17ième(Sous-Sol),7.165888
+ANJ-312,Butler (S-O),22.585975
+ANJ-312,De la Salle (MHM),12.898763
+ANJ-312,Fullum (VMA),15.988683
+ANJ-312,Iberville (PMR),13.156836
+ANJ-312,Jules-Poitras 1 (AHU),14.172438
+ANJ-312,Jules-Poitras 2 (SLA),12.798366
+ANJ-312,Lausanne (MTN),5.446957
+ANJ-312,Millen (AHU),9.279813
+ANJ-312,Riverside (VMA),19.912941
+ANJ-312,Saint-Pierre (LAC),25.006709
+ANJ-312,Sauvé (AHU),11.782341
+ANJ-312,Verdun (VER),24.029
+ANJ-312,46 ieme (LAC),24.406145
+ANJ-312,Angrignon (LAS),27.682283
+ANJ-312,Armand-Chaput (RDP),8.765164
+ANJ-312,Autoroute 13 (PRF),32.450703
+ANJ-312,Château Pierrefonds (PRF),48.865734
+ANJ-312,Lafarge (sud) (MHM),9.047518
+ANJ-312,Langelier (SLE),1.159088
+ANJ-312,Newman (S-O),26.91392
+ANJ-312,Ray-Lawson (ANJ),2.628005
+ANJ-312,Sartelon (SLA),17.570041
+ANJ-312,Thimens (SLA),21.031668
+CDN-111,St-Michel - Charland (VSP),17.281162
+CDN-111,St-Michel - Robert (VSP),16.517775
+CDN-111,St-Michel-17ième(Sous-Sol),16.412941
+CDN-111,Butler (S-O),4.789453
+CDN-111,De la Salle (MHM),13.143606
+CDN-111,Fullum (VMA),10.112552
+CDN-111,Iberville (PMR),11.895476
+CDN-111,Jules-Poitras 1 (AHU),12.017136
+CDN-111,Jules-Poitras 2 (SLA),11.852427
+CDN-111,Lausanne (MTN),17.598797
+CDN-111,Millen (AHU),14.255004
+CDN-111,Riverside (VMA),11.005181
+CDN-111,Saint-Pierre (LAC),2.667292
+CDN-111,Sauvé (AHU),13.104409
+CDN-111,Verdun (VER),5.052907
+CDN-111,46 ieme (LAC),13.228788
+CDN-111,Angrignon (LAS),5.468237
+CDN-111,Armand-Chaput (RDP),29.957592
+CDN-111,Autoroute 13 (PRF),17.937484
+CDN-111,Château Pierrefonds (PRF),28.463551
+CDN-111,Lafarge (sud) (MHM),22.332682
+CDN-111,Langelier (SLE),20.89965
+CDN-111,Newman (S-O),6.9767
+CDN-111,Ray-Lawson (ANJ),22.88841
+CDN-111,Sartelon (SLA),19.518213
+CDN-111,Thimens (SLA),11.210956
+CDN-112,St-Michel - Charland (VSP),15.367493
+CDN-112,St-Michel - Robert (VSP),14.604105
+CDN-112,St-Michel-17ième(Sous-Sol),14.499272
+CDN-112,Butler (S-O),7.38313
+CDN-112,De la Salle (MHM),14.409891
+CDN-112,Fullum (VMA),11.378836
+CDN-112,Iberville (PMR),13.161762
+CDN-112,Jules-Poitras 1 (AHU),10.103468
+CDN-112,Jules-Poitras 2 (SLA),9.938757
+CDN-112,Lausanne (MTN),15.685127
+CDN-112,Millen (AHU),12.341336
+CDN-112,Riverside (VMA),9.546028
+CDN-112,Saint-Pierre (LAC),5.231044
+CDN-112,Sauvé (AHU),11.19074
+CDN-112,Verdun (VER),7.646584
+CDN-112,46 ieme (LAC),15.822465
+CDN-112,Angrignon (LAS),8.061914
+CDN-112,Armand-Chaput (RDP),28.043922
+CDN-112,Autoroute 13 (PRF),12.16488
+CDN-112,Château Pierrefonds (PRF),25.112713
+CDN-112,Lafarge (sud) (MHM),23.355473
+CDN-112,Langelier (SLE),18.985982
+CDN-112,Newman (S-O),9.570377
+CDN-112,Ray-Lawson (ANJ),20.97474
+CDN-112,Sartelon (SLA),10.873821
+CDN-112,Thimens (SLA),9.297288
+CDN-113,St-Michel - Charland (VSP),15.752861
+CDN-113,St-Michel - Robert (VSP),14.989474
+CDN-113,St-Michel-17ième(Sous-Sol),14.88464
+CDN-113,Butler (S-O),7.749175
+CDN-113,De la Salle (MHM),14.775937
+CDN-113,Fullum (VMA),11.744881
+CDN-113,Iberville (PMR),13.527806
+CDN-113,Jules-Poitras 1 (AHU),10.488834
+CDN-113,Jules-Poitras 2 (SLA),10.324125
+CDN-113,Lausanne (MTN),16.070494
+CDN-113,Millen (AHU),12.726703
+CDN-113,Riverside (VMA),9.912073
+CDN-113,Saint-Pierre (LAC),5.597088
+CDN-113,Sauvé (AHU),11.576108
+CDN-113,Verdun (VER),8.012629
+CDN-113,46 ieme (LAC),16.188511
+CDN-113,Angrignon (LAS),8.427958
+CDN-113,Armand-Chaput (RDP),28.429291
+CDN-113,Autoroute 13 (PRF),12.550246
+CDN-113,Château Pierrefonds (PRF),25.498082
+CDN-113,Lafarge (sud) (MHM),23.74084
+CDN-113,Langelier (SLE),19.37135
+CDN-113,Newman (S-O),9.936422
+CDN-113,Ray-Lawson (ANJ),21.360109
+CDN-113,Sartelon (SLA),11.259188
+CDN-113,Thimens (SLA),9.682655
+CDN-114,St-Michel - Charland (VSP),13.962268
+CDN-114,St-Michel - Robert (VSP),13.19888
+CDN-114,St-Michel-17ième(Sous-Sol),13.094048
+CDN-114,Butler (S-O),8.723171
+CDN-114,De la Salle (MHM),15.749932
+CDN-114,Fullum (VMA),12.718877
+CDN-114,Iberville (PMR),14.501802
+CDN-114,Jules-Poitras 1 (AHU),8.698242
+CDN-114,Jules-Poitras 2 (SLA),8.533531
+CDN-114,Lausanne (MTN),14.279901
+CDN-114,Millen (AHU),10.936111
+CDN-114,Riverside (VMA),10.886069
+CDN-114,Saint-Pierre (LAC),6.571084
+CDN-114,Sauvé (AHU),9.785515
+CDN-114,Verdun (VER),8.986626
+CDN-114,46 ieme (LAC),11.266541
+CDN-114,Angrignon (LAS),9.401955
+CDN-114,Armand-Chaput (RDP),26.638701
+CDN-114,Autoroute 13 (PRF),10.759654
+CDN-114,Château Pierrefonds (PRF),23.707488
+CDN-114,Lafarge (sud) (MHM),21.950246
+CDN-114,Langelier (SLE),17.580758
+CDN-114,Newman (S-O),10.910419
+CDN-114,Ray-Lawson (ANJ),19.569518
+CDN-114,Sartelon (SLA),9.468597
+CDN-114,Thimens (SLA),7.892062
+CDN-115,St-Michel - Charland (VSP),12.351854
+CDN-115,St-Michel - Robert (VSP),11.588466
+CDN-115,St-Michel-17ième(Sous-Sol),11.483632
+CDN-115,Butler (S-O),10.688746
+CDN-115,De la Salle (MHM),17.715506
+CDN-115,Fullum (VMA),14.684452
+CDN-115,Iberville (PMR),16.467377
+CDN-115,Jules-Poitras 1 (AHU),7.084261
+CDN-115,Jules-Poitras 2 (SLA),6.541311
+CDN-115,Lausanne (MTN),13.651394
+CDN-115,Millen (AHU),10.307603
+CDN-115,Riverside (VMA),12.851644
+CDN-115,Saint-Pierre (LAC),8.53666
+CDN-115,Sauvé (AHU),7.926255
+CDN-115,Verdun (VER),10.9522
+CDN-115,46 ieme (LAC),11.549106
+CDN-115,Angrignon (LAS),11.367529
+CDN-115,Armand-Chaput (RDP),25.028283
+CDN-115,Autoroute 13 (PRF),11.607873
+CDN-115,Château Pierrefonds (PRF),24.555707
+CDN-115,Lafarge (sud) (MHM),20.339832
+CDN-115,Langelier (SLE),15.970343
+CDN-115,Newman (S-O),12.875994
+CDN-115,Ray-Lawson (ANJ),17.959102
+CDN-115,Sartelon (SLA),9.708047
+CDN-115,Thimens (SLA),8.740282
+CDN-116,St-Michel - Charland (VSP),12.056711
+CDN-116,St-Michel - Robert (VSP),11.293323
+CDN-116,St-Michel-17ième(Sous-Sol),11.188491
+CDN-116,Butler (S-O),10.393604
+CDN-116,De la Salle (MHM),17.420365
+CDN-116,Fullum (VMA),14.389309
+CDN-116,Iberville (PMR),16.172235
+CDN-116,Jules-Poitras 1 (AHU),6.789119
+CDN-116,Jules-Poitras 2 (SLA),6.246168
+CDN-116,Lausanne (MTN),13.356251
+CDN-116,Millen (AHU),10.012463
+CDN-116,Riverside (VMA),12.556501
+CDN-116,Saint-Pierre (LAC),8.241516
+CDN-116,Sauvé (AHU),7.631113
+CDN-116,Verdun (VER),10.657058
+CDN-116,46 ieme (LAC),11.253964
+CDN-116,Angrignon (LAS),11.072388
+CDN-116,Armand-Chaput (RDP),24.733141
+CDN-116,Autoroute 13 (PRF),11.31273
+CDN-116,Château Pierrefonds (PRF),24.260566
+CDN-116,Lafarge (sud) (MHM),20.044689
+CDN-116,Langelier (SLE),15.6752
+CDN-116,Newman (S-O),12.580852
+CDN-116,Ray-Lawson (ANJ),17.663959
+CDN-116,Sartelon (SLA),9.412904
+CDN-116,Thimens (SLA),8.44514
+CDN-301,St-Michel - Charland (VSP),16.347364
+CDN-301,St-Michel - Robert (VSP),15.583976
+CDN-301,St-Michel-17ième(Sous-Sol),15.479144
+CDN-301,Butler (S-O),7.526794
+CDN-301,De la Salle (MHM),14.553555
+CDN-301,Fullum (VMA),11.5225
+CDN-301,Iberville (PMR),13.305425
+CDN-301,Jules-Poitras 1 (AHU),11.083338
+CDN-301,Jules-Poitras 2 (SLA),10.918628
+CDN-301,Lausanne (MTN),16.664998
+CDN-301,Millen (AHU),13.321207
+CDN-301,Riverside (VMA),9.689692
+CDN-301,Saint-Pierre (LAC),5.374707
+CDN-301,Sauvé (AHU),12.170612
+CDN-301,Verdun (VER),7.790249
+CDN-301,46 ieme (LAC),15.966129
+CDN-301,Angrignon (LAS),8.205578
+CDN-301,Armand-Chaput (RDP),29.023795
+CDN-301,Autoroute 13 (PRF),13.14475
+CDN-301,Château Pierrefonds (PRF),26.092584
+CDN-301,Lafarge (sud) (MHM),23.742631
+CDN-301,Langelier (SLE),19.965854
+CDN-301,Newman (S-O),9.714042
+CDN-301,Ray-Lawson (ANJ),21.954613
+CDN-301,Sartelon (SLA),11.853692
+CDN-301,Thimens (SLA),10.277159
+IBI-301,St-Michel - Charland (VSP),36.116184
+IBI-301,St-Michel - Robert (VSP),35.352797
+IBI-301,St-Michel-17ième(Sous-Sol),35.247965
+IBI-301,Butler (S-O),34.539172
+IBI-301,De la Salle (MHM),41.565934
+IBI-301,Fullum (VMA),38.534879
+IBI-301,Iberville (PMR),40.317805
+IBI-301,Jules-Poitras 1 (AHU),24.463473
+IBI-301,Jules-Poitras 2 (SLA),30.687449
+IBI-301,Lausanne (MTN),39.47532
+IBI-301,Millen (AHU),28.153588
+IBI-301,Riverside (VMA),38.712906
+IBI-301,Saint-Pierre (LAC),31.590209
+IBI-301,Sauvé (AHU),27.00299
+IBI-301,Verdun (VER),34.802629
+IBI-301,46 ieme (LAC),23.978303
+IBI-301,Angrignon (LAS),30.366332
+IBI-301,Armand-Chaput (RDP),48.792617
+IBI-301,Autoroute 13 (PRF),15.84259
+IBI-301,Château Pierrefonds (PRF),9.638987
+IBI-301,Lafarge (sud) (MHM),44.104164
+IBI-301,Langelier (SLE),39.734672
+IBI-301,Newman (S-O),33.244219
+IBI-301,Ray-Lawson (ANJ),41.723434
+IBI-301,Sartelon (SLA),20.006809
+IBI-301,Thimens (SLA),21.431514
+LAC-102,St-Michel - Charland (VSP),19.687703
+LAC-102,St-Michel - Robert (VSP),18.924316
+LAC-102,St-Michel-17ième(Sous-Sol),18.819484
+LAC-102,Butler (S-O),14.111374
+LAC-102,De la Salle (MHM),21.471111
+LAC-102,Fullum (VMA),18.440057
+LAC-102,Iberville (PMR),20.22298
+LAC-102,Jules-Poitras 1 (AHU),17.047971
+LAC-102,Jules-Poitras 2 (SLA),14.258969
+LAC-102,Lausanne (MTN),34.637617
+LAC-102,Millen (AHU),16.661549
+LAC-102,Riverside (VMA),16.60725
+LAC-102,Saint-Pierre (LAC),10.853976
+LAC-102,Sauvé (AHU),15.510952
+LAC-102,Verdun (VER),14.374828
+LAC-102,46 ieme (LAC),1.738221
+LAC-102,Angrignon (LAS),9.630098
+LAC-102,Armand-Chaput (RDP),32.364137
+LAC-102,Autoroute 13 (PRF),10.906324
+LAC-102,Château Pierrefonds (PRF),17.009891
+LAC-102,Lafarge (sud) (MHM),27.675684
+LAC-102,Langelier (SLE),23.306193
+LAC-102,Newman (S-O),11.138562
+LAC-102,Ray-Lawson (ANJ),25.294953
+LAC-102,Sartelon (SLA),12.487053
+LAC-102,Thimens (SLA),10.903804
+LAC-104,St-Michel - Charland (VSP),17.230641
+LAC-104,St-Michel - Robert (VSP),16.467252
+LAC-104,St-Michel-17ième(Sous-Sol),16.362421
+LAC-104,Butler (S-O),15.653629
+LAC-104,De la Salle (MHM),23.766102
+LAC-104,Fullum (VMA),20.735047
+LAC-104,Iberville (PMR),22.517971
+LAC-104,Jules-Poitras 1 (AHU),14.590905
+LAC-104,Jules-Poitras 2 (SLA),11.801905
+LAC-104,Lausanne (MTN),17.548275
+LAC-104,Millen (AHU),14.204485
+LAC-104,Riverside (VMA),18.902236
+LAC-104,Saint-Pierre (LAC),13.148965
+LAC-104,Sauvé (AHU),13.05389
+LAC-104,Verdun (VER),15.917084
+LAC-104,46 ieme (LAC),4.685883
+LAC-104,Angrignon (LAS),11.925087
+LAC-104,Armand-Chaput (RDP),29.907072
+LAC-104,Autoroute 13 (PRF),8.292947
+LAC-104,Château Pierrefonds (PRF),21.420445
+LAC-104,Lafarge (sud) (MHM),25.218621
+LAC-104,Langelier (SLE),20.849131
+LAC-104,Newman (S-O),13.433551
+LAC-104,Ray-Lawson (ANJ),22.837891
+LAC-104,Sartelon (SLA),9.873675
+LAC-104,Thimens (SLA),5.243611
+LAC-305,St-Michel - Charland (VSP),30.132867
+LAC-305,St-Michel - Robert (VSP),19.088127
+LAC-305,St-Michel-17ième(Sous-Sol),18.983295
+LAC-305,Butler (S-O),17.525416
+LAC-305,De la Salle (MHM),24.885154
+LAC-305,Fullum (VMA),21.8541
+LAC-305,Iberville (PMR),23.637025
+LAC-305,Jules-Poitras 1 (AHU),11.191282
+LAC-305,Jules-Poitras 2 (SLA),11.988837
+LAC-305,Lausanne (MTN),28.885182
+LAC-305,Millen (AHU),14.881396
+LAC-305,Riverside (VMA),20.021291
+LAC-305,Saint-Pierre (LAC),14.268019
+LAC-305,Sauvé (AHU),13.730802
+LAC-305,Verdun (VER),17.788869
+LAC-305,46 ieme (LAC),4.912329
+LAC-305,Angrignon (LAS),13.044141
+LAC-305,Armand-Chaput (RDP),32.527947
+LAC-305,Autoroute 13 (PRF),5.15389
+LAC-305,Château Pierrefonds (PRF),18.281387
+LAC-305,Lafarge (sud) (MHM),27.839494
+LAC-305,Langelier (SLE),36.798352
+LAC-305,Newman (S-O),14.552604
+LAC-305,Ray-Lawson (ANJ),37.382668
+LAC-305,Sartelon (SLA),6.734618
+LAC-305,Thimens (SLA),5.151369
+LAC-306,St-Michel - Charland (VSP),20.337898
+LAC-306,St-Michel - Robert (VSP),19.57451
+LAC-306,St-Michel-17ième(Sous-Sol),19.46968
+LAC-306,Butler (S-O),13.899808
+LAC-306,De la Salle (MHM),21.259545
+LAC-306,Fullum (VMA),18.228488
+LAC-306,Iberville (PMR),20.011416
+LAC-306,Jules-Poitras 1 (AHU),15.24777
+LAC-306,Jules-Poitras 2 (SLA),14.909162
+LAC-306,Lausanne (MTN),32.941668
+LAC-306,Millen (AHU),17.311742
+LAC-306,Riverside (VMA),16.395682
+LAC-306,Saint-Pierre (LAC),10.642409
+LAC-306,Sauvé (AHU),16.161148
+LAC-306,Verdun (VER),14.163263
+LAC-306,46 ieme (LAC),4.447362
+LAC-306,Angrignon (LAS),9.41853
+LAC-306,Armand-Chaput (RDP),33.014332
+LAC-306,Autoroute 13 (PRF),9.210377
+LAC-306,Château Pierrefonds (PRF),19.682125
+LAC-306,Lafarge (sud) (MHM),28.325881
+LAC-306,Langelier (SLE),23.956389
+LAC-306,Newman (S-O),10.926994
+LAC-306,Ray-Lawson (ANJ),25.945146
+LAC-306,Sartelon (SLA),10.791105
+LAC-306,Thimens (SLA),9.207856
+LAS-321,St-Michel - Charland (VSP),23.858768
+LAS-321,St-Michel - Robert (VSP),23.200143
+LAS-321,St-Michel-17ième(Sous-Sol),22.990549
+LAS-321,Butler (S-O),5.733257
+LAS-321,De la Salle (MHM),16.143995
+LAS-321,Fullum (VMA),13.112938
+LAS-321,Iberville (PMR),14.895864
+LAS-321,Jules-Poitras 1 (AHU),18.667949
+LAS-321,Jules-Poitras 2 (SLA),18.503238
+LAS-321,Lausanne (MTN),42.72325
+LAS-321,Millen (AHU),20.905818
+LAS-321,Riverside (VMA),11.948984
+LAS-321,Saint-Pierre (LAC),3.982974
+LAS-321,Sauvé (AHU),19.755223
+LAS-321,Verdun (VER),5.996712
+LAS-321,46 ieme (LAC),14.283262
+LAS-321,Angrignon (LAS),3.999564
+LAS-321,Armand-Chaput (RDP),35.771211
+LAS-321,Autoroute 13 (PRF),18.991959
+LAS-321,Château Pierrefonds (PRF),29.518025
+LAS-321,Lafarge (sud) (MHM),25.333068
+LAS-321,Langelier (SLE),29.880201
+LAS-321,Newman (S-O),3.562122
+LAS-321,Ray-Lawson (ANJ),28.898535
+LAS-321,Sartelon (SLA),20.572688
+LAS-321,Thimens (SLA),18.989438
+LAS-323,St-Michel - Charland (VSP),28.388992
+LAS-323,St-Michel - Robert (VSP),27.625605
+LAS-323,St-Michel-17ième(Sous-Sol),27.520771
+LAS-323,Butler (S-O),7.199465
+LAS-323,De la Salle (MHM),17.610203
+LAS-323,Fullum (VMA),14.579147
+LAS-323,Iberville (PMR),16.362072
+LAS-323,Jules-Poitras 1 (AHU),24.118262
+LAS-323,Jules-Poitras 2 (SLA),22.960254
+LAS-323,Lausanne (MTN),40.992762
+LAS-323,Millen (AHU),25.362834
+LAS-323,Riverside (VMA),13.415192
+LAS-323,Saint-Pierre (LAC),5.32383
+LAS-323,Sauvé (AHU),24.21224
+LAS-323,Verdun (VER),7.46292
+LAS-323,46 ieme (LAC),12.552772
+LAS-323,Angrignon (LAS),5.016519
+LAS-323,Armand-Chaput (RDP),37.237418
+LAS-323,Autoroute 13 (PRF),17.261469
+LAS-323,Château Pierrefonds (PRF),27.787537
+LAS-323,Lafarge (sud) (MHM),26.799275
+LAS-323,Langelier (SLE),32.00748
+LAS-323,Newman (S-O),4.579076
+LAS-323,Ray-Lawson (ANJ),30.364744
+LAS-323,Sartelon (SLA),18.842197
+LAS-323,Thimens (SLA),17.258949
+LAS-325,St-Michel - Charland (VSP),26.154314
+LAS-325,St-Michel - Robert (VSP),25.390928
+LAS-325,St-Michel-17ième(Sous-Sol),25.286094
+LAS-325,Butler (S-O),10.876578
+LAS-325,De la Salle (MHM),18.236314
+LAS-325,Fullum (VMA),15.205262
+LAS-325,Iberville (PMR),16.988186
+LAS-325,Jules-Poitras 1 (AHU),21.883586
+LAS-325,Jules-Poitras 2 (SLA),20.725578
+LAS-325,Lausanne (MTN),38.758082
+LAS-325,Millen (AHU),23.128158
+LAS-325,Riverside (VMA),13.372454
+LAS-325,Saint-Pierre (LAC),7.688697
+LAS-325,Sauvé (AHU),21.977562
+LAS-325,Verdun (VER),11.140033
+LAS-325,46 ieme (LAC),10.318096
+LAS-325,Angrignon (LAS),4.761227
+LAS-325,Armand-Chaput (RDP),38.830746
+LAS-325,Autoroute 13 (PRF),15.026794
+LAS-325,Château Pierrefonds (PRF),25.552857
+LAS-325,Lafarge (sud) (MHM),27.425391
+LAS-325,Langelier (SLE),29.772803
+LAS-325,Newman (S-O),4.872667
+LAS-325,Ray-Lawson (ANJ),31.761562
+LAS-325,Sartelon (SLA),16.607521
+LAS-325,Thimens (SLA),15.024271
+LAS-326,Angrignon (LAS),5.683346
+LAS-326,Armand-Chaput (RDP),38.382426
+LAS-326,Autoroute 13 (PRF),14.578471
+LAS-326,Château Pierrefonds (PRF),25.104535
+LAS-326,Lafarge (sud) (MHM),27.151783
+LAS-326,Langelier (SLE),29.324482
+LAS-326,Newman (S-O),5.715466
+LAS-326,Ray-Lawson (ANJ),31.31324
+LAS-326,Sartelon (SLA),16.159199
+LAS-326,Thimens (SLA),14.57595
+LAS-327,Angrignon (LAS),3.276483
+LAS-327,Armand-Chaput (RDP),36.378793
+LAS-327,Autoroute 13 (PRF),14.398139
+LAS-327,Château Pierrefonds (PRF),24.924203
+LAS-327,Lafarge (sud) (MHM),25.940646
+LAS-327,Langelier (SLE),29.14415
+LAS-327,Newman (S-O),4.4873
+LAS-327,Ray-Lawson (ANJ),29.506115
+LAS-327,Sartelon (SLA),15.978866
+LAS-327,Thimens (SLA),14.395618
+LAS-328,Angrignon (LAS),2.437491
+LAS-328,Armand-Chaput (RDP),36.227
+LAS-328,Autoroute 13 (PRF),14.876218
+LAS-328,Château Pierrefonds (PRF),25.402285
+LAS-328,Lafarge (sud) (MHM),25.788857
+LAS-328,Langelier (SLE),29.62223
+LAS-328,Newman (S-O),2.414746
+LAS-328,Ray-Lawson (ANJ),29.354324
+LAS-328,Sartelon (SLA),16.456945
+LAS-328,Thimens (SLA),14.873698
+LAS-329,St-Michel - Charland (VSP),23.722918
+LAS-329,St-Michel - Robert (VSP),22.959529
+LAS-329,St-Michel-17ième(Sous-Sol),22.854695
+LAS-329,Butler (S-O),8.364316
+LAS-329,De la Salle (MHM),15.724054
+LAS-329,Fullum (VMA),12.692998
+LAS-329,Iberville (PMR),14.475924
+LAS-329,Jules-Poitras 1 (AHU),19.452186
+LAS-329,Jules-Poitras 2 (SLA),18.29418
+LAS-329,Lausanne (MTN),36.326688
+LAS-329,Millen (AHU),20.696758
+LAS-329,Riverside (VMA),10.860191
+LAS-329,Saint-Pierre (LAC),5.106917
+LAS-329,Sauvé (AHU),19.546164
+LAS-329,Verdun (VER),8.627771
+LAS-329,46 ieme (LAC),7.886697
+LAS-329,Angrignon (LAS),3.88304
+LAS-329,Armand-Chaput (RDP),35.35127
+LAS-329,Autoroute 13 (PRF),12.595395
+LAS-329,Château Pierrefonds (PRF),23.121461
+LAS-329,Lafarge (sud) (MHM),24.913127
+LAS-329,Langelier (SLE),29.46026
+LAS-329,Newman (S-O),4.021796
+LAS-329,Ray-Lawson (ANJ),28.478594
+LAS-329,Sartelon (SLA),14.176122
+LAS-329,Thimens (SLA),12.592874
+LAS-330,St-Michel - Charland (VSP),25.768818
+LAS-330,St-Michel - Robert (VSP),25.005432
+LAS-330,St-Michel-17ième(Sous-Sol),24.900598
+LAS-330,Butler (S-O),10.665797
+LAS-330,De la Salle (MHM),18.025535
+LAS-330,Fullum (VMA),14.99448
+LAS-330,Iberville (PMR),16.777404
+LAS-330,Jules-Poitras 1 (AHU),21.498088
+LAS-330,Jules-Poitras 2 (SLA),20.340082
+LAS-330,Lausanne (MTN),38.37259
+LAS-330,Millen (AHU),22.742662
+LAS-330,Riverside (VMA),13.161674
+LAS-330,Saint-Pierre (LAC),7.494945
+LAS-330,Sauvé (AHU),21.592066
+LAS-330,Verdun (VER),10.929252
+LAS-330,46 ieme (LAC),9.932599
+LAS-330,Angrignon (LAS),5.746172
+LAS-330,Armand-Chaput (RDP),37.65275
+LAS-330,Autoroute 13 (PRF),14.641297
+LAS-330,Château Pierrefonds (PRF),25.167361
+LAS-330,Lafarge (sud) (MHM),27.214611
+LAS-330,Langelier (SLE),29.387307
+LAS-330,Newman (S-O),5.778292
+LAS-330,Ray-Lawson (ANJ),30.780076
+LAS-330,Sartelon (SLA),16.222025
+LAS-330,Thimens (SLA),14.638774
+LAS-333,St-Michel - Charland (VSP),26.552924
+LAS-333,St-Michel - Robert (VSP),25.789533
+LAS-333,St-Michel-17ième(Sous-Sol),25.684699
+LAS-333,Butler (S-O),11.758123
+LAS-333,De la Salle (MHM),19.117863
+LAS-333,Fullum (VMA),16.086808
+LAS-333,Iberville (PMR),17.86973
+LAS-333,Jules-Poitras 1 (AHU),22.282189
+LAS-333,Jules-Poitras 2 (SLA),21.124186
+LAS-333,Lausanne (MTN),39.156691
+LAS-333,Millen (AHU),23.526766
+LAS-333,Riverside (VMA),14.253999
+LAS-333,Saint-Pierre (LAC),8.500726
+LAS-333,Sauvé (AHU),22.37617
+LAS-333,Verdun (VER),12.021578
+LAS-333,46 ieme (LAC),10.716702
+LAS-333,Angrignon (LAS),5.511229
+LAS-333,Armand-Chaput (RDP),39.229355
+LAS-333,Autoroute 13 (PRF),15.425399
+LAS-333,Château Pierrefonds (PRF),25.951463
+LAS-333,Lafarge (sud) (MHM),28.306936
+LAS-333,Langelier (SLE),30.171412
+LAS-333,Newman (S-O),6.718376
+LAS-333,Ray-Lawson (ANJ),31.872402
+LAS-333,Sartelon (SLA),17.006129
+LAS-333,Thimens (SLA),15.422879
+MHM-105,St-Michel - Charland (VSP),12.351755
+MHM-105,St-Michel - Robert (VSP),9.388173
+MHM-105,St-Michel-17ième(Sous-Sol),11.483534
+MHM-105,Butler (S-O),15.935708
+MHM-105,De la Salle (MHM),6.248499
+MHM-105,Fullum (VMA),9.338418
+MHM-105,Iberville (PMR),7.226867
+MHM-105,Jules-Poitras 1 (AHU),20.690697
+MHM-105,Jules-Poitras 2 (SLA),17.901695
+MHM-105,Lausanne (MTN),11.753762
+MHM-105,Millen (AHU),14.796554
+MHM-105,Riverside (VMA),13.262676
+MHM-105,Saint-Pierre (LAC),18.356445
+MHM-105,Sauvé (AHU),16.070402
+MHM-105,Verdun (VER),17.378736
+MHM-105,46 ieme (LAC),26.286336
+MHM-105,Angrignon (LAS),21.03202
+MHM-105,Armand-Chaput (RDP),13.713256
+MHM-105,Autoroute 13 (PRF),37.346289
+MHM-105,Château Pierrefonds (PRF),38.727289
+MHM-105,Lafarge (sud) (MHM),3.803933
+MHM-105,Langelier (SLE),7.822245
+MHM-105,Newman (S-O),20.263652
+MHM-105,Ray-Lawson (ANJ),6.840579
+MHM-105,Sartelon (SLA),22.673371
+MHM-105,Thimens (SLA),22.911857
+MHM-106,St-Michel - Charland (VSP),13.283298
+MHM-106,St-Michel - Robert (VSP),10.319716
+MHM-106,St-Michel-17ième(Sous-Sol),12.415077
+MHM-106,Butler (S-O),16.867252
+MHM-106,De la Salle (MHM),7.180041
+MHM-106,Fullum (VMA),10.26996
+MHM-106,Iberville (PMR),7.68549
+MHM-106,Jules-Poitras 1 (AHU),21.622238
+MHM-106,Jules-Poitras 2 (SLA),18.833238
+MHM-106,Lausanne (MTN),12.685305
+MHM-106,Millen (AHU),15.728096
+MHM-106,Riverside (VMA),14.194219
+MHM-106,Saint-Pierre (LAC),19.287986
+MHM-106,Sauvé (AHU),17.001947
+MHM-106,Verdun (VER),18.310277
+MHM-106,46 ieme (LAC),27.217881
+MHM-106,Angrignon (LAS),21.963561
+MHM-106,Armand-Chaput (RDP),9.980477
+MHM-106,Autoroute 13 (PRF),26.71099
+MHM-106,Château Pierrefonds (PRF),39.658828
+MHM-106,Lafarge (sud) (MHM),2.827416
+MHM-106,Langelier (SLE),8.753788
+MHM-106,Newman (S-O),21.195195
+MHM-106,Ray-Lawson (ANJ),5.379838
+MHM-106,Sartelon (SLA),23.604914
+MHM-106,Thimens (SLA),23.843402
+MHM-107,St-Michel - Charland (VSP),10.089655
+MHM-107,St-Michel - Robert (VSP),7.124074
+MHM-107,St-Michel-17ième(Sous-Sol),9.221435
+MHM-107,Butler (S-O),17.041143
+MHM-107,De la Salle (MHM),7.353933
+MHM-107,Fullum (VMA),10.443854
+MHM-107,Iberville (PMR),7.678331
+MHM-107,Jules-Poitras 1 (AHU),18.428594
+MHM-107,Jules-Poitras 2 (SLA),15.639595
+MHM-107,Lausanne (MTN),12.748077
+MHM-107,Millen (AHU),12.534453
+MHM-107,Riverside (VMA),14.368111
+MHM-107,Saint-Pierre (LAC),19.461879
+MHM-107,Sauvé (AHU),13.808304
+MHM-107,Verdun (VER),18.484172
+MHM-107,46 ieme (LAC),24.024238
+MHM-107,Angrignon (LAS),22.137453
+MHM-107,Armand-Chaput (RDP),14.707571
+MHM-107,Autoroute 13 (PRF),23.51735
+MHM-107,Château Pierrefonds (PRF),36.465184
+MHM-107,Lafarge (sud) (MHM),4.442079
+MHM-107,Langelier (SLE),5.508091
+MHM-107,Newman (S-O),21.36909
+MHM-107,Ray-Lawson (ANJ),7.834894
+MHM-107,Sartelon (SLA),20.41127
+MHM-107,Thimens (SLA),20.64976
+MHM-108,St-Michel - Charland (VSP),8.306646
+MHM-108,St-Michel - Robert (VSP),5.341065
+MHM-108,St-Michel-17ième(Sous-Sol),7.438425
+MHM-108,Butler (S-O),18.710498
+MHM-108,De la Salle (MHM),9.023288
+MHM-108,Fullum (VMA),12.113208
+MHM-108,Iberville (PMR),9.206425
+MHM-108,Jules-Poitras 1 (AHU),16.645586
+MHM-108,Jules-Poitras 2 (SLA),13.856587
+MHM-108,Lausanne (MTN),8.675562
+MHM-108,Millen (AHU),10.751444
+MHM-108,Riverside (VMA),16.037466
+MHM-108,Saint-Pierre (LAC),21.131232
+MHM-108,Sauvé (AHU),12.025295
+MHM-108,Verdun (VER),20.153525
+MHM-108,46 ieme (LAC),22.241229
+MHM-108,Angrignon (LAS),23.806809
+MHM-108,Armand-Chaput (RDP),9.894761
+MHM-108,Autoroute 13 (PRF),21.73434
+MHM-108,Château Pierrefonds (PRF),34.682176
+MHM-108,Lafarge (sud) (MHM),6.696563
+MHM-108,Langelier (SLE),3.725083
+MHM-108,Newman (S-O),23.038443
+MHM-108,Ray-Lawson (ANJ),4.636227
+MHM-108,Sartelon (SLA),18.628262
+MHM-108,Thimens (SLA),18.86675
+MHM-109,St-Michel - Charland (VSP),8.185672
+MHM-109,St-Michel - Robert (VSP),7.116896
+MHM-109,St-Michel-17ième(Sous-Sol),7.317451
+MHM-109,Butler (S-O),9.856407
+MHM-109,De la Salle (MHM),3.671272
+MHM-109,Fullum (VMA),3.259116
+MHM-109,Iberville (PMR),1.224909
+MHM-109,Jules-Poitras 1 (AHU),16.528664
+MHM-109,Jules-Poitras 2 (SLA),13.739663
+MHM-109,Lausanne (MTN),9.662468
+MHM-109,Millen (AHU),10.634521
+MHM-109,Riverside (VMA),7.183375
+MHM-109,Saint-Pierre (LAC),12.277143
+MHM-109,Sauvé (AHU),11.908372
+MHM-109,Verdun (VER),11.299434
+MHM-109,46 ieme (LAC),22.713266
+MHM-109,Angrignon (LAS),14.952717
+MHM-109,Armand-Chaput (RDP),19.435896
+MHM-109,Autoroute 13 (PRF),27.421965
+MHM-109,Château Pierrefonds (PRF),37.948031
+MHM-109,Lafarge (sud) (MHM),9.170403
+MHM-109,Langelier (SLE),10.538063
+MHM-109,Newman (S-O),14.184352
+MHM-109,Ray-Lawson (ANJ),12.563219
+MHM-109,Sartelon (SLA),29.002695
+MHM-109,Thimens (SLA),22.197273
+MHM-209,St-Michel - Charland (VSP),8.476046
+MHM-209,St-Michel - Robert (VSP),5.805237
+MHM-209,St-Michel-17ième(Sous-Sol),7.699953
+MHM-209,Butler (S-O),11.563076
+MHM-209,De la Salle (MHM),1.884728
+MHM-209,Fullum (VMA),4.965785
+MHM-209,Iberville (PMR),2.828399
+MHM-209,Jules-Poitras 1 (AHU),16.911166
+MHM-209,Jules-Poitras 2 (SLA),14.122165
+MHM-209,Lausanne (MTN),9.699753
+MHM-209,Millen (AHU),11.017023
+MHM-209,Riverside (VMA),8.890043
+MHM-209,Saint-Pierre (LAC),13.983812
+MHM-209,Sauvé (AHU),12.290873
+MHM-209,Verdun (VER),13.006103
+MHM-209,46 ieme (LAC),24.419938
+MHM-209,Angrignon (LAS),16.659383
+MHM-209,Armand-Chaput (RDP),18.124234
+MHM-209,Autoroute 13 (PRF),29.128635
+MHM-209,Château Pierrefonds (PRF),39.654699
+MHM-209,Lafarge (sud) (MHM),7.858745
+MHM-209,Langelier (SLE),9.226405
+MHM-209,Newman (S-O),15.891021
+MHM-209,Ray-Lawson (ANJ),11.761142
+MHM-209,Sartelon (SLA),30.709361
+MHM-209,Thimens (SLA),23.903943
+MHM-210,St-Michel - Charland (VSP),8.22168
+MHM-210,St-Michel - Robert (VSP),5.550872
+MHM-210,St-Michel-17ième(Sous-Sol),7.445586
+MHM-210,Butler (S-O),12.547776
+MHM-210,De la Salle (MHM),2.869428
+MHM-210,Fullum (VMA),5.950486
+MHM-210,Iberville (PMR),3.180608
+MHM-210,Jules-Poitras 1 (AHU),16.656799
+MHM-210,Jules-Poitras 2 (SLA),13.8678
+MHM-210,Lausanne (MTN),9.445387
+MHM-210,Millen (AHU),10.762657
+MHM-210,Riverside (VMA),9.874744
+MHM-210,Saint-Pierre (LAC),14.968513
+MHM-210,Sauvé (AHU),12.036508
+MHM-210,Verdun (VER),13.990804
+MHM-210,46 ieme (LAC),25.404639
+MHM-210,Angrignon (LAS),17.644086
+MHM-210,Armand-Chaput (RDP),17.869871
+MHM-210,Autoroute 13 (PRF),30.113336
+MHM-210,Château Pierrefonds (PRF),40.639402
+MHM-210,Lafarge (sud) (MHM),7.604378
+MHM-210,Langelier (SLE),8.972038
+MHM-210,Newman (S-O),16.875721
+MHM-210,Ray-Lawson (ANJ),10.997193
+MHM-210,Sartelon (SLA),18.639475
+MHM-210,Thimens (SLA),18.877963
+MHM-211,St-Michel - Charland (VSP),10.916521
+MHM-211,St-Michel - Robert (VSP),7.950939
+MHM-211,St-Michel-17ième(Sous-Sol),10.0483
+MHM-211,Butler (S-O),16.078978
+MHM-211,De la Salle (MHM),6.391767
+MHM-211,Fullum (VMA),9.481687
+MHM-211,Iberville (PMR),6.716163
+MHM-211,Jules-Poitras 1 (AHU),19.255461
+MHM-211,Jules-Poitras 2 (SLA),16.466459
+MHM-211,Lausanne (MTN),12.601827
+MHM-211,Millen (AHU),13.361318
+MHM-211,Riverside (VMA),13.405945
+MHM-211,Saint-Pierre (LAC),18.499715
+MHM-211,Sauvé (AHU),14.635168
+MHM-211,Verdun (VER),17.522006
+MHM-211,46 ieme (LAC),28.935838
+MHM-211,Angrignon (LAS),21.175287
+MHM-211,Armand-Chaput (RDP),14.56132
+MHM-211,Autoroute 13 (PRF),24.344215
+MHM-211,Château Pierrefonds (PRF),37.292051
+MHM-211,Lafarge (sud) (MHM),4.295829
+MHM-211,Langelier (SLE),6.334957
+MHM-211,Newman (S-O),20.406922
+MHM-211,Ray-Lawson (ANJ),7.688645
+MHM-211,Sartelon (SLA),21.238135
+MHM-211,Thimens (SLA),21.476623
+MTN-102,St-Michel - Charland (VSP),5.445565
+MTN-102,St-Michel - Robert (VSP),5.770203
+MTN-102,St-Michel-17ième(Sous-Sol),7.192973
+MTN-102,Butler (S-O),22.558887
+MTN-102,De la Salle (MHM),12.871678
+MTN-102,Fullum (VMA),15.961598
+MTN-102,Iberville (PMR),13.129749
+MTN-102,Jules-Poitras 1 (AHU),14.145354
+MTN-102,Jules-Poitras 2 (SLA),12.771281
+MTN-102,Lausanne (MTN),5.419871
+MTN-102,Millen (AHU),9.252729
+MTN-102,Riverside (VMA),19.885855
+MTN-102,Saint-Pierre (LAC),24.979621
+MTN-102,Sauvé (AHU),11.755255
+MTN-102,Verdun (VER),24.001914
+MTN-102,46 ieme (LAC),24.43323
+MTN-102,Angrignon (LAS),27.655197
+MTN-102,Armand-Chaput (RDP),8.738079
+MTN-102,Autoroute 13 (PRF),32.423619
+MTN-102,Château Pierrefonds (PRF),36.87418
+MTN-102,Lafarge (sud) (MHM),9.020433
+MTN-102,Langelier (SLE),1.186174
+MTN-102,Newman (S-O),26.886834
+MTN-102,Ray-Lawson (ANJ),2.600919
+MTN-102,Sartelon (SLA),17.542955
+MTN-102,Thimens (SLA),21.058752
+MTN-103,St-Michel - Charland (VSP),6.71543
+MTN-103,St-Michel - Robert (VSP),8.180281
+MTN-103,St-Michel-17ième(Sous-Sol),8.462838
+MTN-103,Butler (S-O),24.455998
+MTN-103,De la Salle (MHM),14.768785
+MTN-103,Fullum (VMA),17.858705
+MTN-103,Iberville (PMR),15.026859
+MTN-103,Jules-Poitras 1 (AHU),24.930002
+MTN-103,Jules-Poitras 2 (SLA),12.763052
+MTN-103,Lausanne (MTN),5.411641
+MTN-103,Millen (AHU),9.244498
+MTN-103,Riverside (VMA),21.782963
+MTN-103,Saint-Pierre (LAC),26.87673
+MTN-103,Sauvé (AHU),11.747025
+MTN-103,Verdun (VER),25.899023
+MTN-103,46 ieme (LAC),38.885953
+MTN-103,Angrignon (LAS),29.552305
+MTN-103,Armand-Chaput (RDP),11.003887
+MTN-103,Autoroute 13 (PRF),29.743393
+MTN-103,Château Pierrefonds (PRF),46.158426
+MTN-103,Lafarge (sud) (MHM),10.917541
+MTN-103,Langelier (SLE),4.282413
+MTN-103,Newman (S-O),28.783941
+MTN-103,Ray-Lawson (ANJ),4.866727
+MTN-103,Sartelon (SLA),28.336527
+MTN-103,Thimens (SLA),34.913016
+MTN-104,St-Michel - Charland (VSP),3.604002
+MTN-104,St-Michel - Robert (VSP),5.068853
+MTN-104,St-Michel-17ième(Sous-Sol),6.038452
+MTN-104,Butler (S-O),25.296758
+MTN-104,De la Salle (MHM),14.905052
+MTN-104,Fullum (VMA),17.994973
+MTN-104,Iberville (PMR),12.661214
+MTN-104,Jules-Poitras 1 (AHU),11.592383
+MTN-104,Jules-Poitras 2 (SLA),10.218311
+MTN-104,Lausanne (MTN),2.8669
+MTN-104,Millen (AHU),6.699757
+MTN-104,Riverside (VMA),21.91923
+MTN-104,Saint-Pierre (LAC),27.012998
+MTN-104,Sauvé (AHU),9.202284
+MTN-104,Verdun (VER),25.560213
+MTN-104,46 ieme (LAC),35.489371
+MTN-104,Angrignon (LAS),42.217559
+MTN-104,Armand-Chaput (RDP),10.771454
+MTN-104,Autoroute 13 (PRF),26.346812
+MTN-104,Château Pierrefonds (PRF),42.761844
+MTN-104,Lafarge (sud) (MHM),11.053809
+MTN-104,Langelier (SLE),2.782054
+MTN-104,Newman (S-O),43.72602
+MTN-104,Ray-Lawson (ANJ),4.634294
+MTN-104,Sartelon (SLA),14.989984
+MTN-104,Thimens (SLA),16.714352
+MTN-305,St-Michel - Charland (VSP),0.930549
+MTN-305,St-Michel - Robert (VSP),2.3954
+MTN-305,St-Michel-17ième(Sous-Sol),2.677958
+MTN-305,Butler (S-O),22.676516
+MTN-305,De la Salle (MHM),9.496034
+MTN-305,Fullum (VMA),12.577092
+MTN-305,Iberville (PMR),10.122695
+MTN-305,Jules-Poitras 1 (AHU),10.15459
+MTN-305,Jules-Poitras 2 (SLA),8.780518
+MTN-305,Lausanne (MTN),2.01404
+MTN-305,Millen (AHU),5.261965
+MTN-305,Riverside (VMA),16.50135
+MTN-305,Saint-Pierre (LAC),20.524428
+MTN-305,Sauvé (AHU),7.764492
+MTN-305,Verdun (VER),22.939971
+MTN-305,46 ieme (LAC),21.189607
+MTN-305,Angrignon (LAS),23.355299
+MTN-305,Armand-Chaput (RDP),13.375733
+MTN-305,Autoroute 13 (PRF),26.181617
+MTN-305,Château Pierrefonds (PRF),33.630555
+MTN-305,Lafarge (sud) (MHM),13.658088
+MTN-305,Langelier (SLE),4.191332
+MTN-305,Newman (S-O),24.863764
+MTN-305,Ray-Lawson (ANJ),7.238574
+MTN-305,Sartelon (SLA),13.552191
+MTN-305,Thimens (SLA),17.815129
+MTN-307,St-Michel - Charland (VSP),6.467645
+MTN-307,St-Michel - Robert (VSP),6.792283
+MTN-307,St-Michel-17ième(Sous-Sol),8.215054
+MTN-307,Butler (S-O),22.942078
+MTN-307,De la Salle (MHM),13.254867
+MTN-307,Fullum (VMA),16.344786
+MTN-307,Iberville (PMR),13.512939
+MTN-307,Jules-Poitras 1 (AHU),14.511735
+MTN-307,Jules-Poitras 2 (SLA),13.137662
+MTN-307,Lausanne (MTN),5.786251
+MTN-307,Millen (AHU),9.619108
+MTN-307,Riverside (VMA),20.269045
+MTN-307,Saint-Pierre (LAC),25.362812
+MTN-307,Sauvé (AHU),12.121636
+MTN-307,Verdun (VER),24.385105
+MTN-307,46 ieme (LAC),26.179244
+MTN-307,Angrignon (LAS),28.038385
+MTN-307,Armand-Chaput (RDP),9.121269
+MTN-307,Autoroute 13 (PRF),32.806805
+MTN-307,Château Pierrefonds (PRF),38.620195
+MTN-307,Lafarge (sud) (MHM),9.403622
+MTN-307,Langelier (SLE),2.208254
+MTN-307,Newman (S-O),27.270021
+MTN-307,Ray-Lawson (ANJ),2.984109
+MTN-307,Sartelon (SLA),17.909336
+MTN-307,Thimens (SLA),22.804766
+OUT-101,St-Michel - Charland (VSP),11.942375
+OUT-101,St-Michel - Robert (VSP),11.178987
+OUT-101,St-Michel-17ième(Sous-Sol),11.074154
+OUT-101,Butler (S-O),12.160211
+OUT-101,De la Salle (MHM),19.186971
+OUT-101,Fullum (VMA),16.155916
+OUT-101,Iberville (PMR),7.854957
+OUT-101,Jules-Poitras 1 (AHU),10.301328
+OUT-101,Jules-Poitras 2 (SLA),7.273018
+OUT-101,Lausanne (MTN),13.019388
+OUT-101,Millen (AHU),9.675597
+OUT-101,Riverside (VMA),7.848137
+OUT-101,Saint-Pierre (LAC),10.008124
+OUT-101,Sauvé (AHU),6.537826
+OUT-101,Verdun (VER),12.423665
+OUT-101,46 ieme (LAC),13.02057
+OUT-101,Angrignon (LAS),12.838995
+OUT-101,Armand-Chaput (RDP),24.618805
+OUT-101,Autoroute 13 (PRF),13.079338
+OUT-101,Château Pierrefonds (PRF),26.027172
+OUT-101,Lafarge (sud) (MHM),19.930354
+OUT-101,Langelier (SLE),15.560863
+OUT-101,Newman (S-O),14.347458
+OUT-101,Ray-Lawson (ANJ),17.549623
+OUT-101,Sartelon (SLA),11.179512
+OUT-101,Thimens (SLA),10.211747
+PMR-101,St-Michel - Charland (VSP),8.113854
+PMR-101,St-Michel - Robert (VSP),6.609356
+PMR-101,St-Michel-17ième(Sous-Sol),7.18879
+PMR-101,Butler (S-O),10.324915
+PMR-101,De la Salle (MHM),7.574855
+PMR-101,Fullum (VMA),5.768597
+PMR-101,Iberville (PMR),4.7992
+PMR-101,Jules-Poitras 1 (AHU),11.87318
+PMR-101,Jules-Poitras 2 (SLA),8.844869
+PMR-101,Lausanne (MTN),9.592773
+PMR-101,Millen (AHU),7.4739
+PMR-101,Riverside (VMA),9.305529
+PMR-101,Saint-Pierre (LAC),14.399298
+PMR-101,Sauvé (AHU),7.73243
+PMR-101,Verdun (VER),13.42159
+PMR-101,46 ieme (LAC),16.216269
+PMR-101,Angrignon (LAS),17.074873
+PMR-101,Armand-Chaput (RDP),20.743043
+PMR-101,Autoroute 13 (PRF),17.091371
+PMR-101,Château Pierrefonds (PRF),30.039205
+PMR-101,Lafarge (sud) (MHM),13.073986
+PMR-101,Langelier (SLE),11.6851
+PMR-101,Newman (S-O),16.306507
+PMR-101,Ray-Lawson (ANJ),13.673858
+PMR-101,Sartelon (SLA),13.616544
+PMR-101,Thimens (SLA),14.22378
+PMR-102,St-Michel - Charland (VSP),10.873496
+PMR-102,St-Michel - Robert (VSP),9.425842
+PMR-102,St-Michel-17ième(Sous-Sol),10.005275
+PMR-102,Butler (S-O),7.003567
+PMR-102,De la Salle (MHM),8.33855
+PMR-102,Fullum (VMA),5.307495
+PMR-102,Iberville (PMR),5.541002
+PMR-102,Jules-Poitras 1 (AHU),12.172069
+PMR-102,Jules-Poitras 2 (SLA),9.143759
+PMR-102,Lausanne (MTN),12.468395
+PMR-102,Millen (AHU),9.406933
+PMR-102,Riverside (VMA),4.611977
+PMR-102,Saint-Pierre (LAC),9.095994
+PMR-102,Sauvé (AHU),8.408567
+PMR-102,Verdun (VER),8.728036
+PMR-102,46 ieme (LAC),19.532119
+PMR-102,Angrignon (LAS),11.771568
+PMR-102,Armand-Chaput (RDP),26.489549
+PMR-102,Autoroute 13 (PRF),15.777522
+PMR-102,Château Pierrefonds (PRF),29.283254
+PMR-102,Lafarge (sud) (MHM),14.715201
+PMR-102,Langelier (SLE),14.501585
+PMR-102,Newman (S-O),11.003203
+PMR-102,Ray-Lawson (ANJ),19.420365
+PMR-102,Sartelon (SLA),13.915433
+PMR-102,Thimens (SLA),13.467827
+PMR-203,St-Michel - Charland (VSP),8.362942
+PMR-203,St-Michel - Robert (VSP),6.858445
+PMR-203,St-Michel-17ième(Sous-Sol),7.437878
+PMR-203,Butler (S-O),11.095954
+PMR-203,De la Salle (MHM),7.917043
+PMR-203,Fullum (VMA),4.885988
+PMR-203,Iberville (PMR),3.916592
+PMR-203,Jules-Poitras 1 (AHU),12.514158
+PMR-203,Jules-Poitras 2 (SLA),9.485849
+PMR-203,Lausanne (MTN),9.841861
+PMR-203,Millen (AHU),8.093192
+PMR-203,Riverside (VMA),8.422921
+PMR-203,Saint-Pierre (LAC),13.516688
+PMR-203,Sauvé (AHU),8.373408
+PMR-203,Verdun (VER),12.53898
+PMR-203,46 ieme (LAC),23.952814
+PMR-203,Angrignon (LAS),16.192265
+PMR-203,Armand-Chaput (RDP),20.992131
+PMR-203,Autoroute 13 (PRF),17.73235
+PMR-203,Château Pierrefonds (PRF),30.680186
+PMR-203,Lafarge (sud) (MHM),12.520007
+PMR-203,Langelier (SLE),11.934188
+PMR-203,Newman (S-O),15.423898
+PMR-203,Ray-Lawson (ANJ),13.922948
+PMR-203,Sartelon (SLA),14.257522
+PMR-203,Thimens (SLA),14.86476
+PMR-204,St-Michel - Charland (VSP),7.751304
+PMR-204,St-Michel - Robert (VSP),6.303649
+PMR-204,St-Michel-17ième(Sous-Sol),6.883083
+PMR-204,Butler (S-O),9.973635
+PMR-204,De la Salle (MHM),4.90234
+PMR-204,Fullum (VMA),3.376344
+PMR-204,Iberville (PMR),1.342138
+PMR-204,Jules-Poitras 1 (AHU),14.951879
+PMR-204,Jules-Poitras 2 (SLA),12.162878
+PMR-204,Lausanne (MTN),9.2281
+PMR-204,Millen (AHU),9.057735
+PMR-204,Riverside (VMA),7.300603
+PMR-204,Saint-Pierre (LAC),12.39437
+PMR-204,Sauvé (AHU),10.331586
+PMR-204,Verdun (VER),11.416662
+PMR-204,46 ieme (LAC),22.830496
+PMR-204,Angrignon (LAS),15.069943
+PMR-204,Armand-Chaput (RDP),20.437334
+PMR-204,Autoroute 13 (PRF),27.539191
+PMR-204,Château Pierrefonds (PRF),38.065258
+PMR-204,Lafarge (sud) (MHM),10.516337
+PMR-204,Langelier (SLE),11.379393
+PMR-204,Newman (S-O),14.30158
+PMR-204,Ray-Lawson (ANJ),13.368151
+PMR-204,Sartelon (SLA),16.934553
+PMR-204,Thimens (SLA),17.173041
+PRF-304B,St-Michel - Charland (VSP),30.65318
+PRF-304B,St-Michel - Robert (VSP),29.889791
+PRF-304B,St-Michel-17ième(Sous-Sol),29.784957
+PRF-304B,Butler (S-O),28.484773
+PRF-304B,De la Salle (MHM),35.844508
+PRF-304B,Fullum (VMA),32.813453
+PRF-304B,Iberville (PMR),34.596383
+PRF-304B,Jules-Poitras 1 (AHU),19.000465
+PRF-304B,Jules-Poitras 2 (SLA),25.224443
+PRF-304B,Lausanne (MTN),39.897051
+PRF-304B,Millen (AHU),27.627021
+PRF-304B,Riverside (VMA),30.980648
+PRF-304B,Saint-Pierre (LAC),25.227375
+PRF-304B,Sauvé (AHU),21.539986
+PRF-304B,Verdun (VER),28.748227
+PRF-304B,46 ieme (LAC),16.246044
+PRF-304B,Angrignon (LAS),24.003496
+PRF-304B,Armand-Chaput (RDP),43.329609
+PRF-304B,Autoroute 13 (PRF),16.165756
+PRF-304B,Château Pierrefonds (PRF),2.687201
+PRF-304B,Lafarge (sud) (MHM),38.64116
+PRF-304B,Langelier (SLE),34.271668
+PRF-304B,Newman (S-O),25.511961
+PRF-304B,Ray-Lawson (ANJ),36.26043
+PRF-304B,Sartelon (SLA),14.543803
+PRF-304B,Thimens (SLA),15.968505
+PRF-304C,St-Michel - Charland (VSP),30.605533
+PRF-304C,St-Michel - Robert (VSP),29.842145
+PRF-304C,St-Michel-17ième(Sous-Sol),29.737312
+PRF-304C,Butler (S-O),29.336953
+PRF-304C,De la Salle (MHM),36.696691
+PRF-304C,Fullum (VMA),33.665633
+PRF-304C,Iberville (PMR),35.448559
+PRF-304C,Jules-Poitras 1 (AHU),18.952818
+PRF-304C,Jules-Poitras 2 (SLA),25.176797
+PRF-304C,Lausanne (MTN),33.557652
+PRF-304C,Millen (AHU),27.579377
+PRF-304C,Riverside (VMA),31.832828
+PRF-304C,Saint-Pierre (LAC),26.079553
+PRF-304C,Sauvé (AHU),21.492338
+PRF-304C,Verdun (VER),29.600406
+PRF-304C,46 ieme (LAC),17.098225
+PRF-304C,Angrignon (LAS),24.855676
+PRF-304C,Armand-Chaput (RDP),43.281965
+PRF-304C,Autoroute 13 (PRF),9.924922
+PRF-304C,Château Pierrefonds (PRF),5.10849
+PRF-304C,Lafarge (sud) (MHM),38.593508
+PRF-304C,Langelier (SLE),34.224023
+PRF-304C,Newman (S-O),26.364137
+PRF-304C,Ray-Lawson (ANJ),36.212781
+PRF-304C,Sartelon (SLA),14.496154
+PRF-304C,Thimens (SLA),15.920859
+PRF-304D,St-Michel - Charland (VSP),32.65258
+PRF-304D,St-Michel - Robert (VSP),27.888256
+PRF-304D,St-Michel-17ième(Sous-Sol),27.783422
+PRF-304D,Butler (S-O),27.074629
+PRF-304D,De la Salle (MHM),36.64982
+PRF-304D,Fullum (VMA),33.618766
+PRF-304D,Iberville (PMR),35.401691
+PRF-304D,Jules-Poitras 1 (AHU),16.988965
+PRF-304D,Jules-Poitras 2 (SLA),23.222906
+PRF-304D,Lausanne (MTN),31.404896
+PRF-304D,Millen (AHU),31.169074
+PRF-304D,Riverside (VMA),31.785959
+PRF-304D,Saint-Pierre (LAC),26.032684
+PRF-304D,Sauvé (AHU),19.528482
+PRF-304D,Verdun (VER),27.338084
+PRF-304D,46 ieme (LAC),16.254633
+PRF-304D,Angrignon (LAS),24.808807
+PRF-304D,Armand-Chaput (RDP),41.328074
+PRF-304D,Autoroute 13 (PRF),7.772164
+PRF-304D,Château Pierrefonds (PRF),8.864709
+PRF-304D,Lafarge (sud) (MHM),36.639621
+PRF-304D,Langelier (SLE),39.318066
+PRF-304D,Newman (S-O),26.317271
+PRF-304D,Ray-Lawson (ANJ),39.902379
+PRF-304D,Sartelon (SLA),11.143572
+PRF-304D,Thimens (SLA),13.966969
+PRF-304E,St-Michel - Charland (VSP),30.687674
+PRF-304E,St-Michel - Robert (VSP),26.0736
+PRF-304E,St-Michel-17ième(Sous-Sol),25.968764
+PRF-304E,Butler (S-O),26.165139
+PRF-304E,De la Salle (MHM),33.524875
+PRF-304E,Fullum (VMA),30.493822
+PRF-304E,Iberville (PMR),32.276744
+PRF-304E,Jules-Poitras 1 (AHU),13.635329
+PRF-304E,Jules-Poitras 2 (SLA),14.432885
+PRF-304E,Lausanne (MTN),29.439988
+PRF-304E,Millen (AHU),29.204168
+PRF-304E,Riverside (VMA),28.661012
+PRF-304E,Saint-Pierre (LAC),22.90774
+PRF-304E,Sauvé (AHU),16.174849
+PRF-304E,Verdun (VER),26.428592
+PRF-304E,46 ieme (LAC),14.955676
+PRF-304E,Angrignon (LAS),21.683863
+PRF-304E,Armand-Chaput (RDP),44.074629
+PRF-304E,Autoroute 13 (PRF),5.807258
+PRF-304E,Château Pierrefonds (PRF),10.995048
+PRF-304E,Lafarge (sud) (MHM),43.974598
+PRF-304E,Langelier (SLE),37.353156
+PRF-304E,Newman (S-O),23.192326
+PRF-304E,Ray-Lawson (ANJ),37.937469
+PRF-304E,Sartelon (SLA),9.178666
+PRF-304E,Thimens (SLA),12.152312
+PRF-304F,St-Michel - Charland (VSP),15.092181
+PRF-304F,St-Michel - Robert (VSP),17.495004
+PRF-304F,St-Michel-17ième(Sous-Sol),15.938448
+PRF-304F,Butler (S-O),22.903654
+PRF-304F,De la Salle (MHM),30.263391
+PRF-304F,Fullum (VMA),27.232338
+PRF-304F,Iberville (PMR),29.015264
+PRF-304F,Jules-Poitras 1 (AHU),6.763723
+PRF-304F,Jules-Poitras 2 (SLA),7.561278
+PRF-304F,Lausanne (MTN),13.797628
+PRF-304F,Millen (AHU),10.453837
+PRF-304F,Riverside (VMA),25.399531
+PRF-304F,Saint-Pierre (LAC),19.646258
+PRF-304F,Sauvé (AHU),9.303242
+PRF-304F,Verdun (VER),23.167109
+PRF-304F,46 ieme (LAC),11.694193
+PRF-304F,Angrignon (LAS),18.422381
+PRF-304F,Armand-Chaput (RDP),30.934822
+PRF-304F,Autoroute 13 (PRF),2.890795
+PRF-304F,Château Pierrefonds (PRF),16.557639
+PRF-304F,Lafarge (sud) (MHM),26.246371
+PRF-304F,Langelier (SLE),21.876881
+PRF-304F,Newman (S-O),19.930844
+PRF-304F,Ray-Lawson (ANJ),35.117891
+PRF-304F,Sartelon (SLA),2.307059
+PRF-304F,Thimens (SLA),3.389702
+RDP-101,St-Michel - Charland (VSP),9.823252
+RDP-101,St-Michel - Robert (VSP),11.288104
+RDP-101,St-Michel-17ième(Sous-Sol),11.57066
+RDP-101,Butler (S-O),26.934514
+RDP-101,De la Salle (MHM),17.247301
+RDP-101,Fullum (VMA),20.337221
+RDP-101,Iberville (PMR),17.505375
+RDP-101,Jules-Poitras 1 (AHU),27.218066
+RDP-101,Jules-Poitras 2 (SLA),24.554893
+RDP-101,Lausanne (MTN),8.519463
+RDP-101,Millen (AHU),21.03634
+RDP-101,Riverside (VMA),24.261479
+RDP-101,Saint-Pierre (LAC),29.355248
+RDP-101,Sauvé (AHU),23.538867
+RDP-101,Verdun (VER),28.377541
+RDP-101,46 ieme (LAC),41.17402
+RDP-101,Angrignon (LAS),47.902203
+RDP-101,Armand-Chaput (RDP),8.5567
+RDP-101,Autoroute 13 (PRF),32.031459
+RDP-101,Château Pierrefonds (PRF),48.446492
+RDP-101,Lafarge (sud) (MHM),10.681018
+RDP-101,Langelier (SLE),6.760928
+RDP-101,Newman (S-O),31.262457
+RDP-101,Ray-Lawson (ANJ),3.734379
+RDP-101,Sartelon (SLA),30.624596
+RDP-101,Thimens (SLA),37.201082
+RDP-102,St-Michel - Charland (VSP),8.563609
+RDP-102,StRDP-102 to St-Michel - Robert (VSP): 9.390025 km,
+RDP-102,St-Michel-17ième(Sous-Sol),10.311017
+RDP-102,Butler (S-O),24.097508
+RDP-102,De la Salle (MHM),14.410296
+RDP-102,Fullum (VMA),17.500215
+RDP-102,Iberville (PMR),14.668369
+RDP-102,Jules-Poitras 1 (AHU),27.220496
+RDP-102,Jules-Poitras 2 (SLA),24.557324
+RDP-102,Lausanne (MTN),8.277024
+RDP-102,Millen (AHU),21.038771
+RDP-102,Riverside (VMA),21.424473
+RDP-102,Saint-Pierre (LAC),26.51824
+RDP-102,Sauvé (AHU),23.541299
+RDP-102,Verdun (VER),25.540533
+RDP-102,46 ieme (LAC),41.176445
+RDP-102,Angrignon (LAS),29.193814
+RDP-102,Armand-Chaput (RDP),7.294688
+RDP-102,Autoroute 13 (PRF),32.033891
+RDP-102,Château Pierrefonds (PRF),48.448922
+RDP-102,Lafarge (sud) (MHM),9.419006
+RDP-102,Langelier (SLE),4.805996
+RDP-102,Newman (S-O),28.425451
+RDP-102,Ray-Lawson (ANJ),1.77307
+RDP-102,Sartelon (SLA),30.627023
+RDP-102,Thimens (SLA),24.267744
+RDP-103,St-Michel - Charland (VSP),9.823252
+RDP-103,St-Michel - Robert (VSP),11.288104
+RDP-103,St-Michel-17ième(Sous-Sol),11.57066
+RDP-103,Butler (S-O),26.934514
+RDP-103,De la Salle (MHM),17.247301
+RDP-103,Fullum (VMA),20.337221
+RDP-103,Iberville (PMR),17.505375
+RDP-103,Jules-Poitras 1 (AHU),27.218066
+RDP-103,Jules-Poitras 2 (SLA),24.554893
+RDP-103,Lausanne (MTN),8.519463
+RDP-103,Millen (AHU),21.03634
+RDP-103,Riverside (VMA),24.261479
+RDP-103,Saint-Pierre (LAC),29.355248
+RDP-103,Sauvé (AHU),23.538867
+RDP-103,Verdun (VER),28.377541
+RDP-103,46 ieme (LAC),41.17402
+RDP-103,Angrignon (LAS),47.902203
+RDP-103,Armand-Chaput (RDP),8.5567
+RDP-103,Autoroute 13 (PRF),32.031459
+RDP-103,Château Pierrefonds (PRF),48.446492
+RDP-103,Lafarge (sud) (MHM),10.681018
+RDP-103,Langelier (SLE),6.760928
+RDP-103,Newman (S-O),31.262457
+RDP-103,Ray-Lawson (ANJ),3.734379
+RDP-103,Sartelon (SLA),30.624596
+RDP-103,Thimens (SLA),37.201082
+RDP-105,St-Michel - Charland (VSP),20.402871
+RDP-105,St-Michel - Robert (VSP),17.439289
+RDP-105,St-Michel-17ième(Sous-Sol),19.534648
+RDP-105,Butler (S-O),30.792738
+RDP-105,De la Salle (MHM),21.105525
+RDP-105,Fullum (VMA),24.195445
+RDP-105,Iberville (PMR),21.3636
+RDP-105,Jules-Poitras 1 (AHU),28.741811
+RDP-105,Jules-Poitras 2 (SLA),25.952812
+RDP-105,Lausanne (MTN),19.448539
+RDP-105,Millen (AHU),34.045949
+RDP-105,Riverside (VMA),28.119705
+RDP-105,Saint-Pierre (LAC),33.213473
+RDP-105,Sauvé (AHU),24.12152
+RDP-105,Verdun (VER),32.235764
+RDP-105,46 ieme (LAC),34.337453
+RDP-105,Angrignon (LAS),35.889047
+RDP-105,Armand-Chaput (RDP),6.263888
+RDP-105,Autoroute 13 (PRF),45.04107
+RDP-105,Château Pierrefonds (PRF),46.778402
+RDP-105,Lafarge (sud) (MHM),10.393144
+RDP-105,Langelier (SLE),15.517023
+RDP-105,Newman (S-O),35.120684
+RDP-105,Ray-Lawson (ANJ),12.147107
+RDP-105,Sartelon (SLA),30.724486
+RDP-105,Thimens (SLA),30.962975
+RDP-106,St-Michel - Charland (VSP),20.116605
+RDP-106,St-Michel - Robert (VSP),17.153023
+RDP-106,St-Michel-17ième(Sous-Sol),19.248385
+RDP-106,Butler (S-O),30.506471
+RDP-106,De la Salle (MHM),20.81926
+RDP-106,Fullum (VMA),23.90918
+RDP-106,Iberville (PMR),21.077334
+RDP-106,Jules-Poitras 1 (AHU),28.455545
+RDP-106,Jules-Poitras 2 (SLA),25.666545
+RDP-106,Lausanne (MTN),19.162273
+RDP-106,Millen (AHU),33.759684
+RDP-106,Riverside (VMA),27.833439
+RDP-106,Saint-Pierre (LAC),32.927207
+RDP-106,Sauvé (AHU),23.835252
+RDP-106,Verdun (VER),31.949498
+RDP-106,46 ieme (LAC),34.051188
+RDP-106,Angrignon (LAS),35.602781
+RDP-106,Armand-Chaput (RDP),5.977622
+RDP-106,Autoroute 13 (PRF),44.754801
+RDP-106,Château Pierrefonds (PRF),46.492133
+RDP-106,Lafarge (sud) (MHM),10.106878
+RDP-106,Langelier (SLE),15.230758
+RDP-106,Newman (S-O),34.834414
+RDP-106,Ray-Lawson (ANJ),11.860842
+RDP-106,Sartelon (SLA),30.438221
+RDP-106,Thimens (SLA),30.676709
+RDP-107,St-Michel - Charland (VSP),17.342064
+RDP-107,St-Michel - Robert (VSP),14.37848
+RDP-107,St-Michel-17ième(Sous-Sol),16.473842
+RDP-107,Butler (S-O),24.032834
+RDP-107,De la Salle (MHM),14.345623
+RDP-107,Fullum (VMA),17.435543
+RDP-107,Iberville (PMR),14.829241
+RDP-107,Jules-Poitras 1 (AHU),25.681006
+RDP-107,Jules-Poitras 2 (SLA),22.892004
+RDP-107,Lausanne (MTN),16.387734
+RDP-107,Millen (AHU),30.985146
+RDP-107,Riverside (VMA),21.359801
+RDP-107,Saint-Pierre (LAC),26.453572
+RDP-107,Sauvé (AHU),21.060713
+RDP-107,Verdun (VER),25.475861
+RDP-107,46 ieme (LAC),31.276648
+RDP-107,Angrignon (LAS),29.129143
+RDP-107,Armand-Chaput (RDP),4.554854
+RDP-107,Autoroute 13 (PRF),41.980262
+RDP-107,Château Pierrefonds (PRF),43.717594
+RDP-107,Lafarge (sud) (MHM),4.648371
+RDP-107,Langelier (SLE),12.456217
+RDP-107,Newman (S-O),28.360777
+RDP-107,Ray-Lawson (ANJ),8.420242
+RDP-107,Sartelon (SLA),27.66368
+RDP-107,Thimens (SLA),27.902166
+RDP-201,St-Michel - Charland (VSP),9.617803
+RDP-201,St-Michel - Robert (VSP),12.695513
+RDP-201,St-Michel-17ième(Sous-Sol),11.365211
+RDP-201,Butler (S-O),26.048959
+RDP-201,De la Salle (MHM),16.36175
+RDP-201,Fullum (VMA),19.45167
+RDP-201,Iberville (PMR),16.619824
+RDP-201,Jules-Poitras 1 (AHU),28.274691
+RDP-201,Jules-Poitras 2 (SLA),25.611518
+RDP-201,Lausanne (MTN),9.331218
+RDP-201,Millen (AHU),22.092965
+RDP-201,Riverside (VMA),23.37593
+RDP-201,Saint-Pierre (LAC),28.469695
+RDP-201,Sauvé (AHU),24.595492
+RDP-201,Verdun (VER),27.491986
+RDP-201,46 ieme (LAC),42.230641
+RDP-201,Angrignon (LAS),31.14527
+RDP-201,Armand-Chaput (RDP),6.221031
+RDP-201,Autoroute 13 (PRF),33.088082
+RDP-201,Château Pierrefonds (PRF),49.503117
+RDP-201,Lafarge (sud) (MHM),8.345349
+RDP-201,Langelier (SLE),5.860189
+RDP-201,Newman (S-O),30.376906
+RDP-201,Ray-Lawson (ANJ),2.827263
+RDP-201,Sartelon (SLA),31.681219
+RDP-201,Thimens (SLA),26.219197
+RDP-202,St-Michel - Charland (VSP),12.648757
+RDP-202,St-Michel - Robert (VSP),13.020321
+RDP-202,St-Michel-17ième(Sous-Sol),15.115682
+RDP-202,Butler (S-O),26.373771
+RDP-202,De la Salle (MHM),16.686559
+RDP-202,Fullum (VMA),19.77648
+RDP-202,Iberville (PMR),16.944631
+RDP-202,Jules-Poitras 1 (AHU),24.322844
+RDP-202,Jules-Poitras 2 (SLA),21.533844
+RDP-202,Lausanne (MTN),12.362173
+RDP-202,Millen (AHU),16.19503
+RDP-202,Riverside (VMA),23.700736
+RDP-202,Saint-Pierre (LAC),28.794506
+RDP-202,Sauvé (AHU),19.702551
+RDP-202,Verdun (VER),27.816795
+RDP-202,46 ieme (LAC),29.918486
+RDP-202,Angrignon (LAS),31.470078
+RDP-202,Armand-Chaput (RDP),2.646696
+RDP-202,Autoroute 13 (PRF),40.622102
+RDP-202,Château Pierrefonds (PRF),42.359434
+RDP-202,Lafarge (sud) (MHM),5.895957
+RDP-202,Langelier (SLE),8.891144
+RDP-202,Newman (S-O),30.701713
+RDP-202,Ray-Lawson (ANJ),5.858218
+RDP-202,Sartelon (SLA),26.30552
+RDP-202,Thimens (SLA),26.544006
+RDP-203,St-Michel - Charland (VSP),17.342064
+RDP-203,St-Michel - Robert (VSP),14.37848
+RDP-203,St-Michel-17ième(Sous-Sol),16.473842
+RDP-203,Butler (S-O),24.032834
+RDP-203,De la Salle (MHM),14.345623
+RDP-203,Fullum (VMA),17.435543
+RDP-203,Iberville (PMR),14.829241
+RDP-203,Jules-Poitras 1 (AHU),25.681006
+RDP-203,Jules-Poitras 2 (SLA),22.892004
+RDP-203,Lausanne (MTN),16.387734
+RDP-203,Millen (AHU),30.985146
+RDP-203,Riverside (VMA),21.359801
+RDP-203,Saint-Pierre (LAC),26.453572
+RDP-203,Sauvé (AHU),21.060713
+RDP-203,Verdun (VER),25.475861
+RDP-203,46 ieme (LAC),31.276648
+RDP-203,Angrignon (LAS),29.129143
+RDP-203,Armand-Chaput (RDP),4.554854
+RDP-203,Autoroute 13 (PRF),41.980262
+RDP-203,Château Pierrefonds (PRF),43.717594
+RDP-203,Lafarge (sud) (MHM),4.648371
+RDP-203,Langelier (SLE),12.456217
+RDP-203,Newman (S-O),28.360777
+RDP-203,Ray-Lawson (ANJ),8.420242
+RDP-203,Sartelon (SLA),27.66368
+RDP-203,Thimens (SLA),27.902166
+RPP-101,St-Michel - Charland (VSP),7.863271
+RPP-101,St-Michel - Robert (VSP),6.415616
+RPP-101,St-Michel-17ième(Sous-Sol),6.995049
+RPP-101,Butler (S-O),14.416498
+RPP-101,De la Salle (MHM),10.173564
+RPP-101,Fullum (VMA),8.040689
+RPP-101,Iberville (PMR),7.133661
+RPP-101,Jules-Poitras 1 (AHU),10.078813
+RPP-101,Jules-Poitras 2 (SLA),7.050503
+RPP-101,Lausanne (MTN),9.458167
+RPP-101,Millen (AHU),6.692149
+RPP-101,Riverside (VMA),8.051741
+RPP-101,Saint-Pierre (LAC),12.264411
+RPP-101,Sauvé (AHU),6.082386
+RPP-101,Verdun (VER),14.679952
+RPP-101,46 ieme (LAC),16.333845
+RPP-101,Angrignon (LAS),15.095281
+RPP-101,Armand-Chaput (RDP),20.549301
+RPP-101,Autoroute 13 (PRF),15.826956
+RPP-101,Château Pierrefonds (PRF),28.774789
+RPP-101,Lafarge (sud) (MHM),15.860849
+RPP-101,Langelier (SLE),11.491358
+RPP-101,Newman (S-O),16.603746
+RPP-101,Ray-Lawson (ANJ),13.48012
+RPP-101,Sartelon (SLA),11.822178
+RPP-101,Thimens (SLA),12.959365
+RPP-102,St-Michel - Charland (VSP),5.58463
+RPP-102,St-Michel - Robert (VSP),4.136976
+RPP-102,St-Michel-17ième(Sous-Sol),4.716409
+RPP-102,Butler (S-O),12.538026
+RPP-102,De la Salle (MHM),4.801571
+RPP-102,Fullum (VMA),5.940736
+RPP-102,Iberville (PMR),3.90653
+RPP-102,Jules-Poitras 1 (AHU),13.927623
+RPP-102,Jules-Poitras 2 (SLA),11.138623
+RPP-102,Lausanne (MTN),7.061427
+RPP-102,Millen (AHU),8.435398
+RPP-102,Riverside (VMA),9.864994
+RPP-102,Saint-Pierre (LAC),14.958762
+RPP-102,Sauvé (AHU),9.30733
+RPP-102,Verdun (VER),13.981054
+RPP-102,46 ieme (LAC),19.523264
+RPP-102,Angrignon (LAS),17.634334
+RPP-102,Armand-Chaput (RDP),18.270662
+RPP-102,Autoroute 13 (PRF),19.016377
+RPP-102,Château Pierrefonds (PRF),31.964213
+RPP-102,Lafarge (sud) (MHM),10.300701
+RPP-102,Langelier (SLE),9.212719
+RPP-102,Newman (S-O),16.865973
+RPP-102,Ray-Lawson (ANJ),11.201479
+RPP-102,Sartelon (SLA),15.910297
+RPP-102,Thimens (SLA),16.148786
+RPP-103,St-Michel - Charland (VSP),5.896425
+RPP-103,St-Michel - Robert (VSP),3.225617
+RPP-103,St-Michel-17ième(Sous-Sol),5.320477
+RPP-103,Butler (S-O),15.816614
+RPP-103,De la Salle (MHM),6.138266
+RPP-103,Fullum (VMA),9.219322
+RPP-103,Iberville (PMR),6.212362
+RPP-103,Jules-Poitras 1 (AHU),14.530269
+RPP-103,Jules-Poitras 2 (SLA),11.741269
+RPP-103,Lausanne (MTN),7.120132
+RPP-103,Millen (AHU),9.038043
+RPP-103,Riverside (VMA),13.143581
+RPP-103,Saint-Pierre (LAC),18.23735
+RPP-103,Sauvé (AHU),9.909976
+RPP-103,Verdun (VER),17.259643
+RPP-103,46 ieme (LAC),20.12591
+RPP-103,Angrignon (LAS),20.912924
+RPP-103,Armand-Chaput (RDP),15.195037
+RPP-103,Autoroute 13 (PRF),19.619021
+RPP-103,Château Pierrefonds (PRF),32.566855
+RPP-103,Lafarge (sud) (MHM),10.506585
+RPP-103,Langelier (SLE),5.711843
+RPP-103,Newman (S-O),20.144559
+RPP-103,Ray-Lawson (ANJ),8.125854
+RPP-103,Sartelon (SLA),16.512943
+RPP-103,Thimens (SLA),16.751432
+RPP-104,St-Michel - Charland (VSP),7.289076
+RPP-104,St-Michel - Robert (VSP),4.618268
+RPP-104,St-Michel-17ième(Sous-Sol),6.512983
+RPP-104,Butler (S-O),12.760236
+RPP-104,De la Salle (MHM),3.081888
+RPP-104,Fullum (VMA),6.162946
+RPP-104,Iberville (PMR),3.708548
+RPP-104,Jules-Poitras 1 (AHU),15.724197
+RPP-104,Jules-Poitras 2 (SLA),12.935197
+RPP-104,Lausanne (MTN),8.512783
+RPP-104,Millen (AHU),10.231971
+RPP-104,Riverside (VMA),10.087203
+RPP-104,Saint-Pierre (LAC),15.180972
+RPP-104,Sauvé (AHU),11.103903
+RPP-104,Verdun (VER),14.203264
+RPP-104,46 ieme (LAC),25.617098
+RPP-104,Angrignon (LAS),17.856547
+RPP-104,Armand-Chaput (RDP),18.154904
+RPP-104,Autoroute 13 (PRF),30.325795
+RPP-104,Château Pierrefonds (PRF),33.760785
+RPP-104,Lafarge (sud) (MHM),8.581019
+RPP-104,Langelier (SLE),8.693713
+RPP-104,Newman (S-O),17.08818
+RPP-104,Ray-Lawson (ANJ),11.973834
+RPP-104,Sartelon (SLA),17.706871
+RPP-104,Thimens (SLA),17.945357
+RPP-201,St-Michel - Charland (VSP),6.356038
+RPP-201,St-Michel - Robert (VSP),4.908384
+RPP-201,St-Michel-17ième(Sous-Sol),5.487818
+RPP-201,Butler (S-O),15.332556
+RPP-201,De la Salle (MHM),8.666332
+RPP-201,Fullum (VMA),7.003842
+RPP-201,Iberville (PMR),6.03558
+RPP-201,Jules-Poitras 1 (AHU),11.684151
+RPP-201,Jules-Poitras 2 (SLA),8.895151
+RPP-201,Lausanne (MTN),7.950937
+RPP-201,Millen (AHU),4.876304
+RPP-201,Riverside (VMA),10.540775
+RPP-201,Saint-Pierre (LAC),15.634544
+RPP-201,Sauvé (AHU),6.063366
+RPP-201,Verdun (VER),15.59601
+RPP-201,46 ieme (LAC),17.279795
+RPP-201,Angrignon (LAS),16.011339
+RPP-201,Armand-Chaput (RDP),19.04207
+RPP-201,Autoroute 13 (PRF),16.772906
+RPP-201,Château Pierrefonds (PRF),29.72074
+RPP-201,Lafarge (sud) (MHM),14.353617
+RPP-201,Langelier (SLE),9.984128
+RPP-201,Newman (S-O),17.519805
+RPP-201,Ray-Lawson (ANJ),11.972887
+RPP-201,Sartelon (SLA),13.666825
+RPP-201,Thimens (SLA),13.905314
+RPP-204,St-Michel - Charland (VSP),5.39861
+RPP-204,St-Michel - Robert (VSP),3.950956
+RPP-204,St-Michel-17ième(Sous-Sol),4.530389
+RPP-204,Butler (S-O),12.252642
+RPP-204,De la Salle (MHM),7.708904
+RPP-204,Fullum (VMA),6.042676
+RPP-204,Iberville (PMR),4.490949
+RPP-204,Jules-Poitras 1 (AHU),11.905867
+RPP-204,Jules-Poitras 2 (SLA),9.116867
+RPP-204,Lausanne (MTN),7.367429
+RPP-204,Millen (AHU),6.603743
+RPP-204,Riverside (VMA),9.579609
+RPP-204,Saint-Pierre (LAC),14.673377
+RPP-204,Sauvé (AHU),7.285574
+RPP-204,Verdun (VER),13.695668
+RPP-204,46 ieme (LAC),17.50151
+RPP-204,Angrignon (LAS),17.348951
+RPP-204,Armand-Chaput (RDP),18.084641
+RPP-204,Autoroute 13 (PRF),16.994621
+RPP-204,Château Pierrefonds (PRF),29.942455
+RPP-204,Lafarge (sud) (MHM),13.396189
+RPP-204,Langelier (SLE),9.0267
+RPP-204,Newman (S-O),16.580588
+RPP-204,Ray-Lawson (ANJ),11.015459
+RPP-204,Sartelon (SLA),13.88854
+RPP-204,Thimens (SLA),14.12703
+RPP-205,St-Michel - Charland (VSP),5.156345
+RPP-205,St-Michel - Robert (VSP),2.485536
+RPP-205,St-Michel-17ième(Sous-Sol),4.411151
+RPP-205,Butler (S-O),14.923373
+RPP-205,De la Salle (MHM),5.245024
+RPP-205,Fullum (VMA),8.326081
+RPP-205,Iberville (PMR),5.871684
+RPP-205,Jules-Poitras 1 (AHU),13.622364
+RPP-205,Jules-Poitras 2 (SLA),10.833363
+RPP-205,Lausanne (MTN),6.380051
+RPP-205,Millen (AHU),8.130139
+RPP-205,Riverside (VMA),12.25034
+RPP-205,Saint-Pierre (LAC),17.344109
+RPP-205,Sauvé (AHU),9.002071
+RPP-205,Verdun (VER),16.366399
+RPP-205,46 ieme (LAC),19.218006
+RPP-205,Angrignon (LAS),20.019682
+RPP-205,Armand-Chaput (RDP),16.10129
+RPP-205,Autoroute 13 (PRF),18.711119
+RPP-205,Château Pierrefonds (PRF),31.658953
+RPP-205,Lafarge (sud) (MHM),11.412838
+RPP-205,Langelier (SLE),6.984029
+RPP-205,Newman (S-O),19.251316
+RPP-205,Ray-Lawson (ANJ),9.032107
+RPP-205,Sartelon (SLA),15.605038
+RPP-205,Thimens (SLA),15.843526
+SLA-363,St-Michel - Charland (VSP),10.874033
+SLA-363,St-Michel - Robert (VSP),13.276856
+SLA-363,St-Michel-17ième(Sous-Sol),11.7203
+SLA-363,Butler (S-O),15.551607
+SLA-363,De la Salle (MHM),17.755783
+SLA-363,Fullum (VMA),19.547312
+SLA-363,Iberville (PMR),15.376452
+SLA-363,Jules-Poitras 1 (AHU),1.889062
+SLA-363,Jules-Poitras 2 (SLA),3.343131
+SLA-363,Lausanne (MTN),9.57948
+SLA-363,Millen (AHU),6.235689
+SLA-363,Riverside (VMA),17.714504
+SLA-363,Saint-Pierre (LAC),13.39952
+SLA-363,Sauvé (AHU),5.085094
+SLA-363,Verdun (VER),15.815062
+SLA-363,46 ieme (LAC),14.815506
+SLA-363,Angrignon (LAS),21.543693
+SLA-363,Armand-Chaput (RDP),26.716676
+SLA-363,Autoroute 13 (PRF),6.012108
+SLA-363,Château Pierrefonds (PRF),19.678951
+SLA-363,Lafarge (sud) (MHM),22.028223
+SLA-363,Langelier (SLE),17.658732
+SLA-363,Newman (S-O),23.052156
+SLA-363,Ray-Lawson (ANJ),19.647494
+SLA-363,Sartelon (SLA),3.776901
+SLA-363,Thimens (SLA),5.52352
+SLA-364,St-Michel - Charland (VSP),11.652049
+SLA-364,St-Michel - Robert (VSP),13.236836
+SLA-364,St-Michel-17ième(Sous-Sol),13.132003
+SLA-364,Butler (S-O),12.456949
+SLA-364,De la Salle (MHM),19.483709
+SLA-364,Fullum (VMA),16.452654
+SLA-364,Iberville (PMR),18.23558
+SLA-364,Jules-Poitras 1 (AHU),3.323591
+SLA-364,Jules-Poitras 2 (SLA),3.459385
+SLA-364,Lausanne (MTN),10.357496
+SLA-364,Millen (AHU),7.013706
+SLA-364,Riverside (VMA),14.619847
+SLA-364,Saint-Pierre (LAC),10.304862
+SLA-364,Sauvé (AHU),4.634783
+SLA-364,Verdun (VER),12.720403
+SLA-364,46 ieme (LAC),10.577898
+SLA-364,Angrignon (LAS),13.135732
+SLA-364,Armand-Chaput (RDP),26.676654
+SLA-364,Autoroute 13 (PRF),7.743536
+SLA-364,Château Pierrefonds (PRF),20.691369
+SLA-364,Lafarge (sud) (MHM),21.988201
+SLA-364,Langelier (SLE),17.618711
+SLA-364,Newman (S-O),14.644196
+SLA-364,Ray-Lawson (ANJ),19.607471
+SLA-364,Sartelon (SLA),5.740531
+SLA-364,Thimens (SLA),4.44279
+SLA-365,St-Michel - Charland (VSP),12.650035
+SLA-365,St-Michel - Robert (VSP),15.052858
+SLA-365,St-Michel-17ième(Sous-Sol),13.496302
+SLA-365,Butler (S-O),16.756564
+SLA-365,De la Salle (MHM),23.783324
+SLA-365,Fullum (VMA),28.906641
+SLA-365,Iberville (PMR),17.152455
+SLA-365,Jules-Poitras 1 (AHU),4.321577
+SLA-365,Jules-Poitras 2 (SLA),5.119132
+SLA-365,Lausanne (MTN),11.355482
+SLA-365,Millen (AHU),8.011691
+SLA-365,Riverside (VMA),27.073832
+SLA-365,Saint-Pierre (LAC),21.320559
+SLA-365,Sauvé (AHU),6.861096
+SLA-365,Verdun (VER),17.02002
+SLA-365,46 ieme (LAC),13.368494
+SLA-365,Angrignon (LAS),20.09668
+SLA-365,Armand-Chaput (RDP),28.492678
+SLA-365,Autoroute 13 (PRF),4.565096
+SLA-365,Château Pierrefonds (PRF),18.231939
+SLA-365,Lafarge (sud) (MHM),23.804227
+SLA-365,Langelier (SLE),19.434734
+SLA-365,Newman (S-O),21.605145
+SLA-365,Ray-Lawson (ANJ),21.423494
+SLA-365,Sartelon (SLA),2.329889
+SLA-365,Thimens (SLA),3.411356
+SLA-366,St-Michel - Charland (VSP),9.196547
+SLA-366,St-Michel - Robert (VSP),11.599371
+SLA-366,St-Michel-17ième(Sous-Sol),10.042813
+SLA-366,Butler (S-O),16.532838
+SLA-366,De la Salle (MHM),16.078297
+SLA-366,Fullum (VMA),20.528543
+SLA-366,Iberville (PMR),13.698965
+SLA-366,Jules-Poitras 1 (AHU),3.541224
+SLA-366,Jules-Poitras 2 (SLA),1.665644
+SLA-366,Lausanne (MTN),7.901994
+SLA-366,Millen (AHU),4.558203
+SLA-366,Riverside (VMA),18.695736
+SLA-366,Saint-Pierre (LAC),14.380753
+SLA-366,Sauvé (AHU),3.407608
+SLA-366,Verdun (VER),16.796293
+SLA-366,46 ieme (LAC),15.045931
+SLA-366,Angrignon (LAS),17.211623
+SLA-366,Armand-Chaput (RDP),25.039189
+SLA-366,Autoroute 13 (PRF),8.672526
+SLA-366,Château Pierrefonds (PRF),27.486877
+SLA-366,Lafarge (sud) (MHM),20.350736
+SLA-366,Langelier (SLE),15.981247
+SLA-366,Newman (S-O),18.720086
+SLA-366,Ray-Lawson (ANJ),17.970008
+SLA-366,Sartelon (SLA),6.437318
+SLA-366,Thimens (SLA),11.671451
+SLA-367,St-Michel - Charland (VSP),13.398424
+SLA-367,St-Michel - Robert (VSP),15.801249
+SLA-367,St-Michel-17ième(Sous-Sol),14.244691
+SLA-367,Butler (S-O),25.274209
+SLA-367,De la Salle (MHM),32.633945
+SLA-367,Fullum (VMA),29.602893
+SLA-367,Iberville (PMR),17.900844
+SLA-367,Jules-Poitras 1 (AHU),4.715698
+SLA-367,Jules-Poitras 2 (SLA),5.867522
+SLA-367,Lausanne (MTN),12.103871
+SLA-367,Millen (AHU),8.760081
+SLA-367,Riverside (VMA),27.770086
+SLA-367,Saint-Pierre (LAC),22.016811
+SLA-367,Sauvé (AHU),7.609485
+SLA-367,Verdun (VER),25.537662
+SLA-367,46 ieme (LAC),14.064747
+SLA-367,Angrignon (LAS),20.792932
+SLA-367,Armand-Chaput (RDP),29.241068
+SLA-367,Autoroute 13 (PRF),5.261349
+SLA-367,Château Pierrefonds (PRF),18.928191
+SLA-367,Lafarge (sud) (MHM),24.552613
+SLA-367,Langelier (SLE),20.183125
+SLA-367,Newman (S-O),22.301396
+SLA-367,Ray-Lawson (ANJ),22.171885
+SLA-367,Sartelon (SLA),3.026141
+SLA-367,Thimens (SLA),5.760257
+SLA-368,St-Michel - Charland (VSP),13.114626
+SLA-368,St-Michel - Robert (VSP),15.51745
+SLA-368,St-Michel-17ième(Sous-Sol),13.960894
+SLA-368,Butler (S-O),23.208285
+SLA-368,De la Salle (MHM),30.568023
+SLA-368,Fullum (VMA),27.536967
+SLA-368,Iberville (PMR),29.319893
+SLA-368,Jules-Poitras 1 (AHU),4.786168
+SLA-368,Jules-Poitras 2 (SLA),5.583724
+SLA-368,Lausanne (MTN),11.820073
+SLA-368,Millen (AHU),8.476282
+SLA-368,Riverside (VMA),25.70416
+SLA-368,Saint-Pierre (LAC),19.950887
+SLA-368,Sauvé (AHU),7.325688
+SLA-368,Verdun (VER),23.471738
+SLA-368,46 ieme (LAC),11.998823
+SLA-368,Angrignon (LAS),18.72701
+SLA-368,Armand-Chaput (RDP),28.957268
+SLA-368,Autoroute 13 (PRF),3.195424
+SLA-368,Château Pierrefonds (PRF),16.862268
+SLA-368,Lafarge (sud) (MHM),24.268816
+SLA-368,Langelier (SLE),19.899326
+SLA-368,Newman (S-O),19.948523
+SLA-368,Ray-Lawson (ANJ),21.314711
+SLA-368,Sartelon (SLA),0.421797
+SLA-368,Thimens (SLA),3.694332
+SLA-369,St-Michel - Charland (VSP),11.79286
+SLA-369,St-Michel - Robert (VSP),13.860322
+SLA-369,St-Michel-17ième(Sous-Sol),13.755488
+SLA-369,Butler (S-O),12.678195
+SLA-369,De la Salle (MHM),19.704957
+SLA-369,Fullum (VMA),16.6739
+SLA-369,Iberville (PMR),18.456828
+SLA-369,Jules-Poitras 1 (AHU),4.702265
+SLA-369,Jules-Poitras 2 (SLA),3.536737
+SLA-369,Lausanne (MTN),10.498308
+SLA-369,Millen (AHU),7.154518
+SLA-369,Riverside (VMA),14.841093
+SLA-369,Saint-Pierre (LAC),10.526107
+SLA-369,Sauvé (AHU),4.712135
+SLA-369,Verdun (VER),12.941648
+SLA-369,46 ieme (LAC),10.113466
+SLA-369,Angrignon (LAS),13.356979
+SLA-369,Armand-Chaput (RDP),27.300139
+SLA-369,Autoroute 13 (PRF),7.707827
+SLA-369,Château Pierrefonds (PRF),20.695098
+SLA-369,Lafarge (sud) (MHM),22.611689
+SLA-369,Langelier (SLE),18.242199
+SLA-369,Newman (S-O),14.865442
+SLA-369,Ray-Lawson (ANJ),20.230957
+SLA-369,Sartelon (SLA),5.472619
+SLA-369,Thimens (SLA),4.174877
+SLA-370,St-Michel - Charland (VSP),15.707463
+SLA-370,St-Michel - Robert (VSP),14.944075
+SLA-370,St-Michel-17ième(Sous-Sol),14.839242
+SLA-370,Butler (S-O),14.130449
+SLA-370,De la Salle (MHM),21.157211
+SLA-370,Fullum (VMA),18.126156
+SLA-370,Iberville (PMR),19.90908
+SLA-370,Jules-Poitras 1 (AHU),6.120917
+SLA-370,Jules-Poitras 2 (SLA),5.42423
+SLA-370,Lausanne (MTN),13.15482
+SLA-370,Millen (AHU),9.811031
+SLA-370,Riverside (VMA),16.293349
+SLA-370,Saint-Pierre (LAC),11.978363
+SLA-370,Sauvé (AHU),8.660435
+SLA-370,Verdun (VER),14.393903
+SLA-370,46 ieme (LAC),7.528861
+SLA-370,Angrignon (LAS),18.440059
+SLA-370,Armand-Chaput (RDP),28.383895
+SLA-370,Autoroute 13 (PRF),5.873757
+SLA-370,Château Pierrefonds (PRF),18.821592
+SLA-370,Lafarge (sud) (MHM),23.695441
+SLA-370,Langelier (SLE),19.325953
+SLA-370,Newman (S-O),19.948523
+SLA-370,Ray-Lawson (ANJ),21.314711
+SLA-370,Sartelon (SLA),4.129228
+SLA-370,Thimens (SLA),2.32296
+SLA-371,St-Michel - Charland (VSP),10.457192
+SLA-371,St-Michel - Robert (VSP),12.524654
+SLA-371,St-Michel-17ième(Sous-Sol),12.41982
+SLA-371,Butler (S-O),14.072088
+SLA-371,De la Salle (MHM),17.00358
+SLA-371,Fullum (VMA),18.067795
+SLA-371,Iberville (PMR),14.624248
+SLA-371,Jules-Poitras 1 (AHU),3.239133
+SLA-371,Jules-Poitras 2 (SLA),2.201069
+SLA-371,Lausanne (MTN),9.16264
+SLA-371,Millen (AHU),5.818849
+SLA-371,Riverside (VMA),16.234985
+SLA-371,Saint-Pierre (LAC),11.920001
+SLA-371,Sauvé (AHU),3.376467
+SLA-371,Verdun (VER),14.335542
+SLA-371,46 ieme (LAC),12.513204
+SLA-371,Angrignon (LAS),14.750872
+SLA-371,Armand-Chaput (RDP),25.964475
+SLA-371,Autoroute 13 (PRF),7.948803
+SLA-371,Château Pierrefonds (PRF),22.503668
+SLA-371,Lafarge (sud) (MHM),21.27602
+SLA-371,Langelier (SLE),16.906531
+SLA-371,Newman (S-O),16.259335
+SLA-371,Ray-Lawson (ANJ),18.895291
+SLA-371,Sartelon (SLA),5.713597
+SLA-371,Thimens (SLA),5.0307
+SLE-109,St-Michel - Charland (VSP),5.828799
+SLE-109,St-Michel - Robert (VSP),3.157991
+SLE-109,St-Michel-17ième(Sous-Sol),5.776278
+SLE-109,Butler (S-O),18.394582
+SLE-109,De la Salle (MHM),8.707373
+SLE-109,Fullum (VMA),11.797293
+SLE-109,Iberville (PMR),7.408488
+SLE-109,Jules-Poitras 1 (AHU),14.98344
+SLE-109,Jules-Poitras 2 (SLA),12.194439
+SLE-109,Lausanne (MTN),7.741817
+SLE-109,Millen (AHU),9.491216
+SLE-109,Riverside (VMA),15.721551
+SLE-109,Saint-Pierre (LAC),20.815318
+SLE-109,Sauvé (AHU),10.363147
+SLE-109,Verdun (VER),19.837609
+SLE-109,46 ieme (LAC),20.579082
+SLE-109,Angrignon (LAS),23.490893
+SLE-109,Armand-Chaput (RDP),14.121642
+SLE-109,Autoroute 13 (PRF),20.072195
+SLE-109,Château Pierrefonds (PRF),33.020027
+SLE-109,Lafarge (sud) (MHM),9.433189
+SLE-109,Langelier (SLE),4.638448
+SLE-109,Newman (S-O),22.722529
+SLE-109,Ray-Lawson (ANJ),7.052459
+SLE-109,Sartelon (SLA),16.966113
+SLE-109,Thimens (SLA),17.204604
+SLE-110,St-Michel - Charland (VSP),3.621199
+SLE-110,St-Michel - Robert (VSP),3.681408
+SLE-110,St-Michel-17ième(Sous-Sol),5.368607
+SLE-110,Butler (S-O),23.707135
+SLE-110,De la Salle (MHM),10.719157
+SLE-110,Fullum (VMA),13.800215
+SLE-110,Iberville (PMR),10.793254
+SLE-110,Jules-Poitras 1 (AHU),12.98164
+SLE-110,Jules-Poitras 2 (SLA),11.607566
+SLE-110,Lausanne (MTN),4.844905
+SLE-110,Millen (AHU),8.089013
+SLE-110,Riverside (VMA),17.724473
+SLE-110,Saint-Pierre (LAC),22.639393
+SLE-110,Sauvé (AHU),10.59154
+SLE-110,Verdun (VER),23.970588
+SLE-110,46 ieme (LAC),22.220227
+SLE-110,Angrignon (LAS),24.385918
+SLE-110,Armand-Chaput (RDP),12.72425
+SLE-110,Autoroute 13 (PRF),28.768305
+SLE-110,Château Pierrefonds (PRF),34.661176
+SLE-110,Lafarge (sud) (MHM),12.963578
+SLE-110,Langelier (SLE),3.213679
+SLE-110,Newman (S-O),25.894383
+SLE-110,Ray-Lawson (ANJ),6.587089
+SLE-110,Sartelon (SLA),16.37924
+SLE-110,Thimens (SLA),18.845746
+SLE-111,St-Michel - Charland (VSP),4.399488
+SLE-111,St-Michel - Robert (VSP),4.459697
+SLE-111,St-Michel-17ième(Sous-Sol),6.146897
+SLE-111,Butler (S-O),24.485424
+SLE-111,De la Salle (MHM),11.497446
+SLE-111,Fullum (VMA),14.578504
+SLE-111,Iberville (PMR),11.571543
+SLE-111,Jules-Poitras 1 (AHU),13.759929
+SLE-111,Jules-Poitras 2 (SLA),12.385856
+SLE-111,Lausanne (MTN),5.623195
+SLE-111,Millen (AHU),8.867303
+SLE-111,Riverside (VMA),18.323916
+SLE-111,Saint-Pierre (LAC),23.417684
+SLE-111,Sauvé (AHU),11.36983
+SLE-111,Verdun (VER),24.748879
+SLE-111,46 ieme (LAC),22.998516
+SLE-111,Angrignon (LAS),25.164207
+SLE-111,Armand-Chaput (RDP),13.50254
+SLE-111,Autoroute 13 (PRF),29.546592
+SLE-111,Château Pierrefonds (PRF),35.439461
+SLE-111,Lafarge (sud) (MHM),13.741869
+SLE-111,Langelier (SLE),3.991968
+SLE-111,Newman (S-O),26.67267
+SLE-111,Ray-Lawson (ANJ),7.365378
+SLE-111,Sartelon (SLA),17.157529
+SLE-111,Thimens (SLA),19.624037
+SLE-303,St-Michel - Charland (VSP),6.653079
+SLE-303,St-Michel - Robert (VSP),4.003339
+SLE-303,St-Michel-17ième(Sous-Sol),7.562935
+SLE-303,Butler (S-O),23.852646
+SLE-303,De la Salle (MHM),10.101576
+SLE-303,Fullum (VMA),13.191496
+SLE-303,Iberville (PMR),10.425972
+SLE-303,Jules-Poitras 1 (AHU),16.770096
+SLE-303,Jules-Poitras 2 (SLA),13.981097
+SLE-303,Lausanne (MTN),7.358121
+SLE-303,Millen (AHU),11.190979
+SLE-303,Riverside (VMA),17.115756
+SLE-303,Saint-Pierre (LAC),22.209521
+SLE-303,Sauvé (AHU),12.149804
+SLE-303,Verdun (VER),21.231812
+SLE-303,46 ieme (LAC),22.365738
+SLE-303,Angrignon (LAS),24.531432
+SLE-303,Armand-Chaput (RDP),13.280489
+SLE-303,Autoroute 13 (PRF),21.85885
+SLE-303,Château Pierrefonds (PRF),34.806688
+SLE-303,Lafarge (sud) (MHM),8.592037
+SLE-303,Langelier (SLE),2.40764
+SLE-303,Newman (S-O),24.116732
+SLE-303,Ray-Lawson (ANJ),4.583835
+SLE-303,Sartelon (SLA),18.752771
+SLE-303,Thimens (SLA),18.99126
+SLE-304,St-Michel - Charland (VSP),6.653079
+SLE-304,St-Michel - Robert (VSP),4.003339
+SLE-304,St-Michel-17ième(Sous-Sol),7.562935
+SLE-304,Butler (S-O),23.852646
+SLE-304,De la Salle (MHM),10.101576
+SLE-304,Fullum (VMA),13.191496
+SLE-304,Iberville (PMR),10.425972
+SLE-304,Jules-Poitras 1 (AHU),16.770096
+SLE-304,Jules-Poitras 2 (SLA),13.981097
+SLE-304,Lausanne (MTN),7.358121
+SLE-304,Millen (AHU),11.190979
+SLE-304,Riverside (VMA),17.115756
+SLE-304,Saint-Pierre (LAC),22.209521
+SLE-304,Sauvé (AHU),12.149804
+SLE-304,Verdun (VER),21.231812
+SLE-304,46 ieme (LAC),22.365738
+SLE-304,Angrignon (LAS),24.531432
+SLE-304,Armand-Chaput (RDP),13.280489
+SLE-304,Autoroute 13 (PRF),21.85885
+SLE-304,Château Pierrefonds (PRF),34.806688
+SLE-304,Lafarge (sud) (MHM),8.592037
+SLE-304,Langelier (SLE),2.40764
+SLE-304,Newman (S-O),24.116732
+SLE-304,Ray-Lawson (ANJ),4.583835
+SLE-304,Sartelon (SLA),18.752771
+SLE-304,Thimens (SLA),18.99126
+S-O-103,St-Michel - Charland (VSP),24.949875
+S-O-103,St-Michel - Robert (VSP),23.502223
+S-O-103,St-Michel-17ième(Sous-Sol),24.081656
+S-O-103,Butler (S-O),9.749904
+S-O-103,De la Salle (MHM),17.109643
+S-O-103,Fullum (VMA),14.078588
+S-O-103,Iberville (PMR),15.861512
+S-O-103,Jules-Poitras 1 (AHU),20.679145
+S-O-103,Jules-Poitras 2 (SLA),19.521139
+S-O-103,Lausanne (MTN),37.553645
+S-O-103,Millen (AHU),21.923719
+S-O-103,Riverside (VMA),12.24578
+S-O-103,Saint-Pierre (LAC),6.492506
+S-O-103,Sauvé (AHU),20.773123
+S-O-103,Verdun (VER),10.013358
+S-O-103,46 ieme (LAC),9.113655
+S-O-103,Angrignon (LAS),5.268628
+S-O-103,Armand-Chaput (RDP),36.736863
+S-O-103,Autoroute 13 (PRF),13.822354
+S-O-103,Château Pierrefonds (PRF),24.34842
+S-O-103,Lafarge (sud) (MHM),26.298715
+S-O-103,Langelier (SLE),28.568363
+S-O-103,Newman (S-O),5.665416
+S-O-103,Ray-Lawson (ANJ),29.864184
+S-O-103,Sartelon (SLA),15.403081
+S-O-103,Thimens (SLA),13.819833
+S-O-104,St-Michel - Charland (VSP),15.460021
+S-O-104,St-Michel - Robert (VSP),14.801394
+S-O-104,St-Michel-17ième(Sous-Sol),14.5918
+S-O-104,Butler (S-O),2.043982
+S-O-104,De la Salle (MHM),7.745246
+S-O-104,Fullum (VMA),4.714191
+S-O-104,Iberville (PMR),6.497116
+S-O-104,Jules-Poitras 1 (AHU),17.620229
+S-O-104,Jules-Poitras 2 (SLA),17.455518
+S-O-104,Lausanne (MTN),16.936816
+S-O-104,Millen (AHU),19.858098
+S-O-104,Riverside (VMA),2.455433
+S-O-104,Saint-Pierre (LAC),3.389586
+S-O-104,Sauvé (AHU),18.707502
+S-O-104,Verdun (VER),3.396903
+S-O-104,46 ieme (LAC),17.330043
+S-O-104,Angrignon (LAS),9.569491
+S-O-104,Armand-Chaput (RDP),27.372465
+S-O-104,Autoroute 13 (PRF),22.03874
+S-O-104,Château Pierrefonds (PRF),32.564809
+S-O-104,Lafarge (sud) (MHM),16.93432
+S-O-104,Langelier (SLE),21.393986
+S-O-104,Newman (S-O),5.801138
+S-O-104,Ray-Lawson (ANJ),20.499787
+S-O-104,Sartelon (SLA),23.619469
+S-O-104,Thimens (SLA),16.814049
+S-O-201A,St-Michel - Charland (VSP),21.621424
+S-O-201A,St-Michel - Robert (VSP),20.17377
+S-O-201A,St-Michel-17ième(Sous-Sol),20.753205
+S-O-201A,Butler (S-O),4.634632
+S-O-201A,De la Salle (MHM),15.561093
+S-O-201A,Fullum (VMA),12.530037
+S-O-201A,Iberville (PMR),14.312963
+S-O-201A,Jules-Poitras 1 (AHU),23.266703
+S-O-201A,Jules-Poitras 2 (SLA),22.108695
+S-O-201A,Lausanne (MTN),40.141199
+S-O-201A,Millen (AHU),18.595268
+S-O-201A,Riverside (VMA),7.171794
+S-O-201A,Saint-Pierre (LAC),2.081232
+S-O-201A,Sauvé (AHU),23.360682
+S-O-201A,Verdun (VER),5.400648
+S-O-201A,46 ieme (LAC),11.701214
+S-O-201A,Angrignon (LAS),3.110392
+S-O-201A,Armand-Chaput (RDP),35.188309
+S-O-201A,Autoroute 13 (PRF),16.40991
+S-O-201A,Château Pierrefonds (PRF),26.935977
+S-O-201A,Lafarge (sud) (MHM),24.750168
+S-O-201A,Langelier (SLE),29.209834
+S-O-201A,Newman (S-O),0.364579
+S-O-201A,Ray-Lawson (ANJ),28.315633
+S-O-201A,Sartelon (SLA),17.990639
+S-O-201A,Thimens (SLA),16.407391
+S-O-201B,St-Michel - Charland (VSP),20.437549
+S-O-201B,St-Michel - Robert (VSP),18.989896
+S-O-201B,St-Michel-17ième(Sous-Sol),19.56933
+S-O-201B,Butler (S-O),1.869695
+S-O-201B,De la Salle (MHM),12.761105
+S-O-201B,Fullum (VMA),9.730051
+S-O-201B,Iberville (PMR),11.512976
+S-O-201B,Jules-Poitras 1 (AHU),15.173523
+S-O-201B,Jules-Poitras 2 (SLA),15.008812
+S-O-201B,Lausanne (MTN),20.755184
+S-O-201B,Millen (AHU),17.411395
+S-O-201B,Riverside (VMA),4.406857
+S-O-201B,Saint-Pierre (LAC),2.120738
+S-O-201B,Sauvé (AHU),16.260798
+S-O-201B,Verdun (VER),2.868028
+S-O-201B,46 ieme (LAC),14.353968
+S-O-201B,Angrignon (LAS),6.593416
+S-O-201B,Armand-Chaput (RDP),32.388324
+S-O-201B,Autoroute 13 (PRF),19.062664
+S-O-201B,Château Pierrefonds (PRF),29.58873
+S-O-201B,Lafarge (sud) (MHM),21.95018
+S-O-201B,Langelier (SLE),26.409848
+S-O-201B,Newman (S-O),3.119621
+S-O-201B,Ray-Lawson (ANJ),25.515646
+S-O-201B,Sartelon (SLA),20.643393
+S-O-201B,Thimens (SLA),19.060145
+VER-310A,St-Michel - Charland (VSP),29.60582
+VER-310A,St-Michel - Robert (VSP),23.135734
+VER-310A,St-Michel-17ième(Sous-Sol),28.737598
+VER-310A,Butler (S-O),5.66885
+VER-310A,De la Salle (MHM),16.079588
+VER-310A,Fullum (VMA),13.048531
+VER-310A,Iberville (PMR),14.831456
+VER-310A,Jules-Poitras 1 (AHU),25.335086
+VER-310A,Jules-Poitras 2 (SLA),24.177082
+VER-310A,Lausanne (MTN),42.20959
+VER-310A,Millen (AHU),20.747449
+VER-310A,Riverside (VMA),11.884577
+VER-310A,Saint-Pierre (LAC),3.793214
+VER-310A,Sauvé (AHU),25.429068
+VER-310A,Verdun (VER),5.932304
+VER-310A,46 ieme (LAC),13.769599
+VER-310A,Angrignon (LAS),3.485904
+VER-310A,Armand-Chaput (RDP),35.706805
+VER-310A,Autoroute 13 (PRF),18.478297
+VER-310A,Château Pierrefonds (PRF),29.004359
+VER-310A,Lafarge (sud) (MHM),25.268662
+VER-310A,Langelier (SLE),29.728326
+VER-310A,Newman (S-O),3.048461
+VER-310A,Ray-Lawson (ANJ),28.834127
+VER-310A,Sartelon (SLA),20.059025
+VER-310A,Thimens (SLA),18.475777
+VER-310B,St-Michel - Charland (VSP),19.489781
+VER-310B,St-Michel - Robert (VSP),18.831154
+VER-310B,St-Michel-17ième(Sous-Sol),18.621559
+VER-310B,Butler (S-O),4.321032
+VER-310B,De la Salle (MHM),11.775006
+VER-310B,Fullum (VMA),8.743951
+VER-310B,Iberville (PMR),10.526876
+VER-310B,Jules-Poitras 1 (AHU),20.238199
+VER-310B,Jules-Poitras 2 (SLA),20.073488
+VER-310B,Lausanne (MTN),20.966576
+VER-310B,Millen (AHU),22.476066
+VER-310B,Riverside (VMA),6.105518
+VER-310B,Saint-Pierre (LAC),7.052626
+VER-310B,Sauvé (AHU),21.325473
+VER-310B,Verdun (VER),2.776324
+VER-310B,46 ieme (LAC),18.707408
+VER-310B,Angrignon (LAS),10.946856
+VER-310B,Armand-Chaput (RDP),31.402223
+VER-310B,Autoroute 13 (PRF),23.416105
+VER-310B,Château Pierrefonds (PRF),33.942168
+VER-310B,Lafarge (sud) (MHM),20.96408
+VER-310B,Langelier (SLE),25.423746
+VER-310B,Newman (S-O),8.051509
+VER-310B,Ray-Lawson (ANJ),24.529547
+VER-310B,Sartelon (SLA),24.996834
+VER-310B,Thimens (SLA),23.413584
+VMA-109,St-Michel - Charland (VSP),14.007455
+VMA-109,St-Michel - Robert (VSP),13.348828
+VMA-109,St-Michel-17ième(Sous-Sol),13.139234
+VMA-109,Butler (S-O),7.459852
+VMA-109,De la Salle (MHM),6.29268
+VMA-109,Fullum (VMA),3.261625
+VMA-109,Iberville (PMR),5.04455
+VMA-109,Jules-Poitras 1 (AHU),20.606898
+VMA-109,Jules-Poitras 2 (SLA),20.442188
+VMA-109,Lausanne (MTN),15.484251
+VMA-109,Millen (AHU),14.285133
+VMA-109,Riverside (VMA),4.786819
+VMA-109,Saint-Pierre (LAC),9.880587
+VMA-109,Sauvé (AHU),21.694172
+VMA-109,Verdun (VER),8.902879
+VMA-109,46 ieme (LAC),20.316713
+VMA-109,Angrignon (LAS),12.556161
+VMA-109,Armand-Chaput (RDP),25.919896
+VMA-109,Autoroute 13 (PRF),25.02541
+VMA-109,Château Pierrefonds (PRF),35.551477
+VMA-109,Lafarge (sud) (MHM),15.481755
+VMA-109,Langelier (SLE),19.941422
+VMA-109,Newman (S-O),11.787796
+VMA-109,Ray-Lawson (ANJ),19.047223
+VMA-109,Sartelon (SLA),26.606139
+VMA-109,Thimens (SLA),19.800721
+VMA-110,St-Michel - Charland (VSP),13.600854
+VMA-110,St-Michel - Robert (VSP),15.058261
+VMA-110,St-Michel-17ième(Sous-Sol),12.732636
+VMA-110,Butler (S-O),4.300618
+VMA-110,De la Salle (MHM),8.002112
+VMA-110,Fullum (VMA),4.971058
+VMA-110,Iberville (PMR),6.753982
+VMA-110,Jules-Poitras 1 (AHU),17.227301
+VMA-110,Jules-Poitras 2 (SLA),17.06259
+VMA-110,Lausanne (MTN),15.077652
+VMA-110,Millen (AHU),19.465168
+VMA-110,Riverside (VMA),2.882033
+VMA-110,Saint-Pierre (LAC),6.500988
+VMA-110,Sauvé (AHU),18.314574
+VMA-110,Verdun (VER),8.81474
+VMA-110,46 ieme (LAC),16.937115
+VMA-110,Angrignon (LAS),9.176562
+VMA-110,Armand-Chaput (RDP),27.62933
+VMA-110,Autoroute 13 (PRF),21.645811
+VMA-110,Château Pierrefonds (PRF),32.171875
+VMA-110,Lafarge (sud) (MHM),17.191189
+VMA-110,Langelier (SLE),21.650854
+VMA-110,Newman (S-O),8.408197
+VMA-110,Ray-Lawson (ANJ),20.756654
+VMA-110,Sartelon (SLA),23.226539
+VMA-110,Thimens (SLA),16.421119
+VMA-111,St-Michel - Charland (VSP),11.483486
+VMA-111,St-Michel - Robert (VSP),10.414711
+VMA-111,St-Michel-17ième(Sous-Sol),10.615266
+VMA-111,Butler (S-O),5.915932
+VMA-111,De la Salle (MHM),6.387545
+VMA-111,Fullum (VMA),3.35649
+VMA-111,Iberville (PMR),3.294018
+VMA-111,Jules-Poitras 1 (AHU),14.260978
+VMA-111,Jules-Poitras 2 (SLA),11.232667
+VMA-111,Lausanne (MTN),12.960283
+VMA-111,Millen (AHU),10.382615
+VMA-111,Riverside (VMA),3.367542
+VMA-111,Saint-Pierre (LAC),7.967032
+VMA-111,Sauvé (AHU),9.772852
+VMA-111,Verdun (VER),7.483602
+VMA-111,46 ieme (LAC),18.403158
+VMA-111,Angrignon (LAS),10.642606
+VMA-111,Armand-Chaput (RDP),22.733709
+VMA-111,Autoroute 13 (PRF),23.111855
+VMA-111,Château Pierrefonds (PRF),33.637922
+VMA-111,Lafarge (sud) (MHM),12.468219
+VMA-111,Langelier (SLE),13.835877
+VMA-111,Newman (S-O),9.874241
+VMA-111,Ray-Lawson (ANJ),15.861032
+VMA-111,Sartelon (SLA),24.692584
+VMA-111,Thimens (SLA),17.887166
+VMA-306,St-Michel - Charland (VSP),10.745433
+VMA-306,St-Michel - Robert (VSP),9.676656
+VMA-306,St-Michel-17ième(Sous-Sol),9.877212
+VMA-306,Butler (S-O),7.37244
+VMA-306,De la Salle (MHM),5.813852
+VMA-306,Fullum (VMA),2.782797
+VMA-306,Iberville (PMR),2.555964
+VMA-306,Jules-Poitras 1 (AHU),14.450336
+VMA-306,Jules-Poitras 2 (SLA),11.422024
+VMA-306,Lausanne (MTN),12.222229
+VMA-306,Millen (AHU),10.144265
+VMA-306,Riverside (VMA),4.699408
+VMA-306,Saint-Pierre (LAC),9.793176
+VMA-306,Sauvé (AHU),10.346119
+VMA-306,Verdun (VER),8.815467
+VMA-306,46 ieme (LAC),20.229301
+VMA-306,Angrignon (LAS),12.468749
+VMA-306,Armand-Chaput (RDP),21.995656
+VMA-306,Autoroute 13 (PRF),24.938
+VMA-306,Château Pierrefonds (PRF),35.464066
+VMA-306,Lafarge (sud) (MHM),11.730164
+VMA-306,Langelier (SLE),13.097824
+VMA-306,Newman (S-O),11.700384
+VMA-306,Ray-Lawson (ANJ),15.12298
+VMA-306,Sartelon (SLA),26.518727
+VMA-306,Thimens (SLA),19.713307
+VMA-307,St-Michel - Charland (VSP),11.364016
+VMA-307,St-Michel - Robert (VSP),10.295241
+VMA-307,St-Michel-17ième(Sous-Sol),10.495795
+VMA-307,Butler (S-O),7.172026
+VMA-307,De la Salle (MHM),5.819286
+VMA-307,Fullum (VMA),2.788231
+VMA-307,Iberville (PMR),3.174548
+VMA-307,Jules-Poitras 1 (AHU),14.871993
+VMA-307,Jules-Poitras 2 (SLA),11.843682
+VMA-307,Lausanne (MTN),12.840812
+VMA-307,Millen (AHU),10.155671
+VMA-307,Riverside (VMA),4.498993
+VMA-307,Saint-Pierre (LAC),9.592761
+VMA-307,Sauvé (AHU),10.973642
+VMA-307,Verdun (VER),8.615053
+VMA-307,46 ieme (LAC),20.028887
+VMA-307,Angrignon (LAS),12.268335
+VMA-307,Armand-Chaput (RDP),22.614238
+VMA-307,Autoroute 13 (PRF),24.737586
+VMA-307,Château Pierrefonds (PRF),35.263648
+VMA-307,Lafarge (sud) (MHM),12.348748
+VMA-307,Langelier (SLE),13.716408
+VMA-307,Newman (S-O),11.499971
+VMA-307,Ray-Lawson (ANJ),15.741563
+VMA-307,Sartelon (SLA),26.318312
+VMA-307,Thimens (SLA),19.512893
+VSP-103,St-Michel - Charland (VSP),6.343175
+VSP-103,St-Michel - Robert (VSP),4.895521
+VSP-103,St-Michel-17ième(Sous-Sol),5.474955
+VSP-103,Butler (S-O),16.746146
+VSP-103,De la Salle (MHM),10.350738
+VSP-103,Fullum (VMA),9.71359
+VSP-103,Iberville (PMR),7.679383
+VSP-103,Jules-Poitras 1 (AHU),9.652223
+VSP-103,Jules-Poitras 2 (SLA),6.863222
+VSP-103,Lausanne (MTN),7.297469
+VSP-103,Millen (AHU),3.7575
+VSP-103,Riverside (VMA),13.637848
+VSP-103,Saint-Pierre (LAC),14.594061
+VSP-103,Sauvé (AHU),4.981299
+VSP-103,Verdun (VER),17.009602
+VSP-103,46 ieme (LAC),15.259238
+VSP-103,Angrignon (LAS),17.424932
+VSP-103,Armand-Chaput (RDP),19.019605
+VSP-103,Autoroute 13 (PRF),14.752351
+VSP-103,Château Pierrefonds (PRF),27.700186
+VSP-103,Lafarge (sud) (MHM),14.331154
+VSP-103,Langelier (SLE),9.961664
+VSP-103,Newman (S-O),18.933395
+VSP-103,Ray-Lawson (ANJ),11.950424
+VSP-103,Sartelon (SLA),11.634896
+VSP-103,Thimens (SLA),11.88476
+VSP-104,St-Michel - Charland (VSP),2.245922
+VSP-104,St-Michel - Robert (VSP),4.854672
+VSP-104,St-Michel-17ième(Sous-Sol),3.092189
+VSP-104,Butler (S-O),19.522457
+VSP-104,De la Salle (MHM),11.187972
+VSP-104,Fullum (VMA),10.019787
+VSP-104,Iberville (PMR),8.802506
+VSP-104,Jules-Poitras 1 (AHU),7.710612
+VSP-104,Jules-Poitras 2 (SLA),6.33654
+VSP-104,Lausanne (MTN),3.358806
+VSP-104,Millen (AHU),2.817987
+VSP-104,Riverside (VMA),13.556719
+VSP-104,Saint-Pierre (LAC),17.370371
+VSP-104,Sauvé (AHU),4.167451
+VSP-104,Verdun (VER),19.785912
+VSP-104,46 ieme (LAC),18.035549
+VSP-104,Angrignon (LAS),20.20124
+VSP-104,Armand-Chaput (RDP),16.692451
+VSP-104,Autoroute 13 (PRF),17.528662
+VSP-104,Château Pierrefonds (PRF),30.476498
+VSP-104,Lafarge (sud) (MHM),15.470013
+VSP-104,Langelier (SLE),6.650604
+VSP-104,Newman (S-O),21.709705
+VSP-104,Ray-Lawson (ANJ),10.555291
+VSP-104,Sartelon (SLA),11.108215
+VSP-104,Thimens (SLA),14.661071
+VSP-107,St-Michel - Charland (VSP),4.432772
+VSP-107,St-Michel - Robert (VSP),2.924685
+VSP-107,St-Michel-17ième(Sous-Sol),3.504119
+VSP-107,Butler (S-O),17.53268
+VSP-107,De la Salle (MHM),8.451165
+VSP-107,Fullum (VMA),7.819063
+VSP-107,Iberville (PMR),6.065698
+VSP-107,Jules-Poitras 1 (AHU),10.450131
+VSP-107,Jules-Poitras 2 (SLA),7.66113
+VSP-107,Lausanne (MTN),5.911692
+VSP-107,Millen (AHU),5.148006
+VSP-107,Riverside (VMA),11.355997
+VSP-107,Saint-Pierre (LAC),15.380595
+VSP-107,Sauvé (AHU),5.829838
+VSP-107,Verdun (VER),17.796135
+VSP-107,46 ieme (LAC),16.045772
+VSP-107,Angrignon (LAS),18.211465
+VSP-107,Armand-Chaput (RDP),17.421658
+VSP-107,Autoroute 13 (PRF),15.538885
+VSP-107,Château Pierrefonds (PRF),28.486719
+VSP-107,Lafarge (sud) (MHM),12.733206
+VSP-107,Langelier (SLE),8.363715
+VSP-107,Newman (S-O),19.71993
+VSP-107,Ray-Lawson (ANJ),10.352476
+VSP-107,Sartelon (SLA),12.432805
+VSP-107,Thimens (SLA),12.671293
+VSP-108,St-Michel - Charland (VSP),7.5818
+VSP-108,St-Michel - Robert (VSP),6.134146
+VSP-108,St-Michel-17ième(Sous-Sol),6.713579
+VSP-108,Butler (S-O),17.984771
+VSP-108,De la Salle (MHM),11.297339
+VSP-108,Fullum (VMA),10.952214
+VSP-108,Iberville (PMR),8.918007
+VSP-108,Jules-Poitras 1 (AHU),10.890848
+VSP-108,Jules-Poitras 2 (SLA),8.101848
+VSP-108,Lausanne (MTN),8.536093
+VSP-108,Millen (AHU),4.996124
+VSP-108,Riverside (VMA),13.740762
+VSP-108,Saint-Pierre (LAC),15.832686
+VSP-108,Sauvé (AHU),6.219924
+VSP-108,Verdun (VER),18.248227
+VSP-108,46 ieme (LAC),16.497863
+VSP-108,Angrignon (LAS),18.663557
+VSP-108,Armand-Chaput (RDP),20.25823
+VSP-108,Autoroute 13 (PRF),15.990977
+VSP-108,Château Pierrefonds (PRF),28.938811
+VSP-108,Lafarge (sud) (MHM),15.569778
+VSP-108,Langelier (SLE),11.200289
+VSP-108,Newman (S-O),20.17202
+VSP-108,Ray-Lawson (ANJ),13.189048
+VSP-108,Sartelon (SLA),12.873521
+VSP-108,Thimens (SLA),13.123386
+VSP-109,St-Michel - Charland (VSP),8.545598
+VSP-109,St-Michel - Robert (VSP),7.097943
+VSP-109,St-Michel-17ième(Sous-Sol),7.677377
+VSP-109,Butler (S-O),14.826593
+VSP-109,De la Salle (MHM),12.553161
+VSP-109,Fullum (VMA),18.822299
+VSP-109,Iberville (PMR),9.881806
+VSP-109,Jules-Poitras 1 (AHU),7.732668
+VSP-109,Jules-Poitras 2 (SLA),4.943668
+VSP-109,Lausanne (MTN),7.430264
+VSP-109,Millen (AHU),4.086473
+VSP-109,Riverside (VMA),16.98949
+VSP-109,Saint-Pierre (LAC),12.674505
+VSP-109,Sauvé (AHU),3.122758
+VSP-109,Verdun (VER),15.090047
+VSP-109,46 ieme (LAC),13.339685
+VSP-109,Angrignon (LAS),15.505376
+VSP-109,Armand-Chaput (RDP),21.222029
+VSP-109,Autoroute 13 (PRF),12.832797
+VSP-109,Château Pierrefonds (PRF),25.780633
+VSP-109,Lafarge (sud) (MHM),16.533576
+VSP-109,Langelier (SLE),12.164086
+VSP-109,Newman (S-O),17.01384
+VSP-109,Ray-Lawson (ANJ),14.152848
+VSP-109,Sartelon (SLA),9.715343
+VSP-109,Thimens (SLA),9.965205
+VSP-205,St-Michel - Charland (VSP),0.421727
+VSP-205,St-Michel - Robert (VSP),3.030478
+VSP-205,St-Michel-17ième(Sous-Sol),1.325681
+VSP-205,Butler (S-O),21.290908
+VSP-205,De la Salle (MHM),10.131112
+VSP-205,Fullum (VMA),11.000958
+VSP-205,Iberville (PMR),8.966751
+VSP-205,Jules-Poitras 1 (AHU),9.697372
+VSP-205,Jules-Poitras 2 (SLA),8.323301
+VSP-205,Lausanne (MTN),1.932957
+VSP-205,Millen (AHU),4.804747
+VSP-205,Riverside (VMA),14.516665
+VSP-205,Saint-Pierre (LAC),19.13882
+VSP-205,Sauvé (AHU),7.307274
+VSP-205,Verdun (VER),21.554363
+VSP-205,46 ieme (LAC),19.804
+VSP-205,Angrignon (LAS),21.969691
+VSP-205,Armand-Chaput (RDP),14.080448
+VSP-205,Autoroute 13 (PRF),15.330181
+VSP-205,Château Pierrefonds (PRF),32.244945
+VSP-205,Lafarge (sud) (MHM),14.149734
+VSP-205,Langelier (SLE),4.826409
+VSP-205,Newman (S-O),23.478154
+VSP-205,Ray-Lawson (ANJ),7.943288
+VSP-205,Sartelon (SLA),13.094975
+VSP-205,Thimens (SLA),16.429521
+VSP-206,St-Michel - Charland (VSP),3.654585
+VSP-206,St-Michel - Robert (VSP),2.206931
+VSP-206,St-Michel-17ième(Sous-Sol),2.786365
+VSP-206,Butler (S-O),18.296125
+VSP-206,De la Salle (MHM),7.370124
+VSP-206,Fullum (VMA),7.55075
+VSP-206,Iberville (PMR),5.516543
+VSP-206,Jules-Poitras 1 (AHU),11.213576
+VSP-206,Jules-Poitras 2 (SLA),8.424576
+VSP-206,Lausanne (MTN),5.131381
+VSP-206,Millen (AHU),5.721351
+VSP-206,Riverside (VMA),11.475008
+VSP-206,Saint-Pierre (LAC),16.144039
+VSP-206,Sauvé (AHU),6.593284
+VSP-206,Verdun (VER),18.55958
+VSP-206,46 ieme (LAC),16.809219
+VSP-206,Angrignon (LAS),18.97491
+VSP-206,Armand-Chaput (RDP),16.340616
+VSP-206,Autoroute 13 (PRF),16.30233
+VSP-206,Château Pierrefonds (PRF),29.250164
+VSP-206,Lafarge (sud) (MHM),11.652164
+VSP-206,Langelier (SLE),7.282675
+VSP-206,Newman (S-O),20.483373
+VSP-206,Ray-Lawson (ANJ),9.271434
+VSP-206,Sartelon (SLA),13.196251
+VSP-206,Thimens (SLA),13.434738

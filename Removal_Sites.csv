@@ -1,0 +1,107 @@
+NomSecteur,Latitude,Longitude,Volume m3,Arrondissement,Company,Priority
+VMA-109,45.49917824,-73.56230036,93274.51,Ville-Marie,Canbec Construction,1
+VMA-307,45.51550898,-73.56114693,82691.13,Ville-Marie,Transvrac MontrÃ©al - Laval Inc,2
+VMA-306,45.51979422,-73.56636476,96229.11,Ville-Marie,Transvrac MontrÃ©al - Laval Inc,3
+VMA-111,45.5124151,-73.56966732,85847.51,Ville-Marie,Canbec Construction,4
+VMA-110,45.4987999,-73.57666971,127483.61,Ville-Marie,9055-0344 QuÃ©bec Inc. (Transport DM Choquette),5
+PMR-101,45.53189772,-73.59390183,158592.4,Le Plateau-Mont-Royal,Les Ent. Michaudville inc,6
+PMR-102,45.51588553,-73.59052976,144354.73,Le Plateau-Mont-Royal,Les Ent. Michaudville inc,7
+S-O-104,45.48772195,-73.56854884,136883.4,Le Sud-Ouest,Canbec Construction,8
+PMR-204,45.53959729,-73.56831073,80600.83,Le Plateau-Mont-Royal,GROUPE TMD,9
+MHM-109,45.54117536,-73.55830691,126720.19,MercierHochelaga-Maisonneuve,Sanexen Services Environnementaux Inc.,10
+PMR-203,45.53341693,-73.592195,97228.93,Le Plateau-Mont-Royal,Les entreprises Charles Maisonneuve ltÃ©e,11
+RPP-201,45.54046257,-73.61308137,116858.26,RosemontLa Petite-Patrie,GROUPE TMD,12
+MHM-209,45.55347871,-73.55165706,124186.67,MercierHochelaga-Maisonneuve,Transport H. Cordeau inc.,13
+MHM-210,45.55468483,-73.55428138,156288.64,MercierHochelaga-Maisonneuve,Transport H. Cordeau inc.,14
+RPP-204,45.54868487,-73.60171691,123910.35,RosemontLa Petite-Patrie,Transport H. Cordeau inc.,15
+RPP-101,45.53176015,-73.62078145,100797.42,RosemontLa Petite-Patrie,A. &  O. Gendron inc.,16
+RPP-102,45.55287401,-73.58050178,95611.77,RosemontLa Petite-Patrie,PÃ©piniÃ¨re Michel Tanguay Inc.,17
+OUT-101,45.51658042,-73.62672222,170139.37,Outremont,Environnement Routier NRJ Inc.,18
+RPP-104,45.55789801,-73.56557695,152513.24,RosemontLa Petite-Patrie,Groupe Imog Inc.,19
+VER-310B,45.4669972,-73.53190369,91295.89,Verdun,Transvrac MontrÃ©al - Laval Inc,20
+VSP-107,45.55484377,-73.62091446,125642.5,VilleraySaint-MichelParc-Extension,Groupe Imog Inc.,21
+CDN-111,45.4725436,-73.6124776,70225.35,Côte-des-NeigesNotre-Dame-de-Grâce,Canbec Construction,22
+VSP-206,45.56027421,-73.60897427,107770.34,VilleraySaint-MichelParc-Extension,Tr. en vrac St-Hyacinthe,23
+S-O-201B,45.46974659,-73.58305727,107975.69,Le Sud-Ouest,Transport H. Cordeau inc.,24
+RPP-205,45.56540501,-73.58812198,133863.99,RosemontLa Petite-Patrie,Transport H. Cordeau inc.,25
+AHU-107,45.55110129,-73.65335819,165025.8,Ahuntsic-Cartierville,Les Entrepreneurs Bucaro inc.,26
+RPP-103,45.57364057,-73.58076923,113049.76,RosemontLa Petite-Patrie,Les Entrepreneurs Bucaro inc.,27
+S-O-201A,45.45783633,-73.61364497,94217.6,Le Sud-Ouest,Transport H. Cordeau inc.,28
+AHU-105,45.54287252,-73.65814723,144586.67,Ahuntsic-Cartierville,Groupe Imog Inc.,29
+MHM-211,45.58767097,-73.54121714,120956.77,MercierHochelaga-Maisonneuve,Transport H. Cordeau inc.,30
+VSP-104,45.56497012,-73.645257,126061.39,VilleraySaint-MichelParc-Extension,Les Entrepreneurs Bucaro inc.,31
+MHM-105,45.59086138,-73.52540373,135651.25,MercierHochelaga-Maisonneuve,Construction Larotek,32
+CDN-112,45.4852088,-73.62813247,85719.86,Côte-des-NeigesNotre-Dame-de-Grâce,NMP Golf Construction Inc.,33
+S-O-103,45.45071293,-73.63515371,197580.1,Le Sud-Ouest,9055-0344 QuÃ©bec Inc. (Transport DM Choquette),34
+SLE-109,45.57619682,-73.59335768,108860.15,Saint-Léonard,Proquip inc.,35
+CDN-301,45.47552466,-73.63975434,226169.69,Côte-des-NeigesNotre-Dame-de-Grâce,Transvrac MontrÃ©al - Laval Inc,36
+MHM-106,45.59482761,-73.53571902,150424.21,MercierHochelaga-Maisonneuve,DÃ©neigement Moderne inc.,37
+MHM-107,45.59030081,-73.54893298,156504.79,MercierHochelaga-Maisonneuve,DÃ©neigement Moderne inc.,38
+CDN-113,45.49108823,-73.62765679,110109.53,Côte-des-NeigesNotre-Dame-de-Grâce,C.M.S. Ent. GÃ©nÃ©raux inc.,39
+LAS-328,45.43943653,-73.62177664,90925.53,LaSalle,Transvrac MontrÃ©al - Laval Inc,40
+LAS-329,45.44121084,-73.64583339,66308.04,LaSalle,Transvrac MontrÃ©al - Laval Inc,41
+LAS-321,45.43713099,-73.5975788,61684.34,LaSalle,Transvrac MontrÃ©al - Laval Inc,42
+ANJ-310,45.59304821,-73.55717888,65548.68,Anjou,Transvrac MontrÃ©al - Laval Inc,43
+VSP-205,45.57613921,-73.63611344,105697.54,VilleraySaint-MichelParc-Extension,Tr. en vrac St-Hyacinthe,44
+AHU-106,45.57207083,-73.66193861,160528.94,Ahuntsic-Cartierville,Les Entrepreneurs Bucaro inc.,45
+LAS-327,45.43378628,-73.63813045,68856.07,LaSalle,Transvrac MontrÃ©al - Laval Inc,46
+VER-310A,45.43737817,-73.59918246,193127.45,Verdun,Transvrac MontrÃ©al - Laval Inc,47
+MHM-108,45.59659289,-73.56965627,177831.34,MercierHochelaga-Maisonneuve,Les Excavations Payette LtÃ©e,48
+SLE-111,45.59063956,-73.61809441,112853.32,Saint-Léonard,Les Excavations Payette LtÃ©e,49
+LAS-323,45.42777023,-73.60618434,81718.74,LaSalle,Transvrac MontrÃ©al - Laval Inc,50
+ANJ-309,45.60227753,-73.55934654,68076.99,Anjou,Transvrac MontrÃ©al - Laval Inc,51
+CDN-114,45.48914054,-73.65135848,90497.64,Côte-des-NeigesNotre-Dame-de-Grâce,C.M.S. Ent. GÃ©nÃ©raux inc.,52
+LAS-326,45.42916816,-73.66596827,66068.18,LaSalle,Transvrac MontrÃ©al - Laval Inc,53
+LAS-330,45.42839166,-73.66598992,69701.58,LaSalle,Transvrac MontrÃ©al - Laval Inc,54
+MTN-305,45.58633997,-73.63281797,173318.12,Montréal-Nord,Transvrac MontrÃ©al - Laval Inc,55
+LAS-325,45.42322946,-73.64119391,77214.89,LaSalle,Transvrac MontrÃ©al - Laval Inc,56
+SLE-110,45.59715655,-73.6185478,143274.78,Saint-Léonard,Proquip inc.,57
+CDN-116,45.50521911,-73.6412747,100403.2,Côte-des-NeigesNotre-Dame-de-Grâce,C.M.S. Ent. GÃ©nÃ©raux inc.,58
+SLA-364,45.51453166,-73.68277358,96099.1,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,59
+CDN-115,45.50378342,-73.6382155,86829.59,Côte-des-NeigesNotre-Dame-de-Grâce,C.M.S. Ent. GÃ©nÃ©raux inc.,60
+SLA-369,45.5101042,-73.68754717,74626.73,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,61
+LAS-333,45.41672125,-73.64428762,67148.59,LaSalle,Transvrac MontrÃ©al - Laval Inc,62
+SLE-304,45.59511827,-73.58164095,202107.95,Saint-Léonard,Transvrac MontrÃ©al - Laval Inc,63
+SLE-303,45.59511827,-73.58164095,219784.46,Saint-Léonard,Transvrac MontrÃ©al - Laval Inc,64
+VSP-108,45.53663772,-73.64473434,120159.51,VilleraySaint-MichelParc-Extension,A. &  O. Gendron inc.,65
+LAC-102,45.44874551,-73.7207966,84276.29,Lachine,Pavages D'Amour inc.,66
+SLA-363,45.52393904,-73.70679262,84510.81,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,67
+VSP-109,45.54102211,-73.64189435,137970.19,VilleraySaint-MichelParc-Extension,PÃ©piniÃ¨re Michel Tanguay Inc.,68
+SLA-370,45.4971947,-73.69939657,81596.87,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,69
+MTN-102,45.61189793,-73.60166814,115918.37,Montréal-Nord,J.M. GagnÃ© inc.,70
+ANJ-312,45.61258773,-73.60235426,190725.51,Anjou,Transvrac MontrÃ©al - Laval Inc,71
+SLA-365,45.50832976,-73.71576601,100648.23,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,72
+VSP-103,45.5465949,-73.63769029,145643.47,VilleraySaint-MichelParc-Extension,Groupe Imog Inc.,73
+ANJ-311,45.5993434,-73.5771954,74463.74,Anjou,Transvrac MontrÃ©al - Laval Inc,74
+SLA-366,45.52827247,-73.69257716,81563.47,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,75
+LAC-305,45.47359968,-73.7081493,61232.24,Lachine,Transvrac MontrÃ©al - Laval Inc,76
+ANJ-101,45.62486671,-73.54666744,135587.31,Anjou,DÃ©neigement Fontaine Gadbois inc,77
+SLA-371,45.52568678,-73.67938079,80953.24,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,78
+LAC-306,45.44785518,-73.69973418,149069.24,Lachine,Transvrac MontrÃ©al - Laval Inc,79
+LAC-104,45.46451771,-73.69477837,52879.08,Lachine,Marina matÃ©riaux et Ã©quipements,80
+MTN-307,45.6106194,-73.60719834,179912.37,Montréal-Nord,Transvrac MontrÃ©al - Laval Inc,81
+SLA-368,45.51432286,-73.73363993,92066.03,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,82
+MTN-103,45.62595631,-73.616592,106176.99,Montréal-Nord,Deneigement Cyrbault Inc. - 341795,83
+MTN-104,45.60551289,-73.62405162,105891.84,Montréal-Nord,Deneigement Cyrbault Inc. - 341795,84
+SLA-367,45.52225915,-73.73416154,96600.02,Saint-Laurent,Transvrac MontrÃ©al - Laval Inc,85
+RDP-202,45.64820144,-73.54440856,115670.96,Rivière-des-PrairiesPointe-aux-Trembles,9402-5152 QuÃ©bec inc. (Logistivrac),86
+RDP-102,45.63457353,-73.58575489,163220.74,Rivière-des-PrairiesPointe-aux-Trembles,JMV Environnement Inc.,87
+RDP-201,45.64153239,-73.57656323,166379.71,Rivière-des-PrairiesPointe-aux-Trembles,9402-5152 QuÃ©bec inc. (Logistivrac),88
+RDP-101,45.64505274,-73.59683981,198928.84,Rivière-des-PrairiesPointe-aux-Trembles,JMV Environnement Inc.,89
+RDP-103,45.64505274,-73.59683981,201736.38,Rivière-des-PrairiesPointe-aux-Trembles,JMV Environnement Inc.,90
+AHU-101,45.54427433,-73.70412065,146517.1,Ahuntsic-Cartierville,A. &  O. Gendron inc.,91
+AHU-103,45.54427433,-73.70412065,174266.08,Ahuntsic-Cartierville,9115-7883 QuÃ©bec inc. / Sig-Nature,92
+RDP-203,45.65248011,-73.51038355,182385.61,Rivière-des-PrairiesPointe-aux-Trembles,9402-5152 QuÃ©bec inc. (Logistivrac),93
+RDP-107,45.65248011,-73.51038355,173405.52,Rivière-des-PrairiesPointe-aux-Trembles,DÃ©neigement Fontaine Gadbois inc,94
+AHU-202,45.54975712,-73.67922621,135547.87,Ahuntsic-Cartierville,Deneigement Cyrbault Inc. - 341795,95
+AHU-104,45.54722741,-73.69246631,128579.68,Ahuntsic-Cartierville,Canbec Construction,96
+AHU-102,45.54355918,-73.70279457,166156.4,Ahuntsic-Cartierville,Groupe Imog Inc.,97
+AHU-201,45.55986009,-73.67179148,132188.9,Ahuntsic-Cartierville,Deneigement Cyrbault Inc. - 341795,98
+PRF-304F,45.50442266,-73.75168321,22601.93,Pierrefonds-Roxboro,Transvrac MontrÃ©al - Laval Inc,99
+RDP-105,45.6981362,-73.50951395,157347.72,Rivière-des-PrairiesPointe-aux-Trembles,Sanexen Services Environnementaux Inc.,100
+RDP-106,45.69558777,-73.50961773,182306.97,Rivière-des-PrairiesPointe-aux-Trembles,DÃ©neigement Fontaine Gadbois inc,101
+PRF-304E,45.50570163,-73.79508132,38547.16,Pierrefonds-Roxboro,Transvrac MontrÃ©al - Laval Inc,102
+PRF-304D,45.51669083,-73.84362667,19647.35,Pierrefonds-Roxboro,Transvrac MontrÃ©al - Laval Inc,103
+PRF-304C,45.48888963,-73.85979422,22260.38,Pierrefonds-Roxboro,Transvrac MontrÃ©al - Laval Inc,104
+PRF-304B,45.46585424,-73.87304961,24034.84,Pierrefonds-Roxboro,Transvrac MontrÃ©al - Laval Inc,105
+IBI-301,45.46775634,-73.90173477,23055.45,L'Île-BizardSainte-Geneviève,Transvrac MontrÃ©al - Laval Inc,106
